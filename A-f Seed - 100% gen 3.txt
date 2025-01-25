@@ -1,0 +1,4913 @@
+Earth + Water = Plant
+Wind + Wind = Tornado
+Earth + Plant = Tree
+Fire + Tree = Ash
+Ash + Tree = Pencil
+Pencil + Tree = Paper
+Ash + Paper = Fire
+Paper + Tree = Book
+Book + Pencil = Homework
+Homework + Tornado = F
+Homework + Water = Coffee
+Coffee + Homework = A
+A + Homework = A+
+A + Book = Alphabet
+c + o = u
+n + o = t
+L + i = n  // 22
+
+
+
+Gen 1 - 93 Elements -> 93 Total Elements
+Gen 2 - 477 Elements -> 570 Total Elements
+Gen 3 - 206 Elements -> 776 Total Elements
+
+
+
+1 - Volcano: 
+Fire + Fire = Volcano
+
+1 - Lava: 
+Earth + Fire = Lava
+
+1 - Steam: 
+Fire + Water = Steam
+
+2 - Train: 
+Fire + Water = Steam
+A-f + Steam = Train
+ ...
+Fire + Water = Steam
+A-f + Steam = Train
+
+1 - Lake: 
+Water + Water = Lake
+
+2 - Fake: 
+Water + Water = Lake
+A-f + Lake = Fake
+ ...
+Water + Water = Lake
+A-f + Lake = Fake
+
+1 - Mountain: 
+Earth + Earth = Mountain
+
+2 - Avalanche: 
+Earth + Earth = Mountain
+A-f + Mountain = Avalanche
+ ...
+Earth + Earth = Mountain
+A-f + Mountain = Avalanche
+ ...
+Ash + Ash = Stone
+Stone + Tornado = Avalanche
+
+1 - Smoke: 
+Fire + Wind = Smoke
+
+2 - Fog: 
+Fire + Wind = Smoke
+A-f + Smoke = Fog
+ ...
+Fire + Wind = Smoke
+A-f + Smoke = Fog
+ ...
+Coffee + Wind = Storm
+F + Storm = Fog
+
+1 - Wave: 
+Water + Wind = Wave
+
+2 - Surf: 
+Water + Wind = Wave
+A-f + Wave = Surf
+ ...
+Water + Wind = Wave
+A-f + Wave = Surf
+
+1 - Dust: 
+Earth + Wind = Dust
+
+1 - Adam: 
+A+ + Earth = Adam
+
+1 - Flare: 
+F + Fire = Flare
+
+2 - Fire: 
+Ash + Paper = Fire
+F + Fire = Flare
+ ...
+Ash + Paper = Fire
+Fire + Pencil = Match
+
+1 - Flower: 
+F + Water = Flower
+
+2 - Aphrodite: 
+F + Water = Flower
+A-f + Flower = Aphrodite
+ ...
+F + Water = Flower
+A-f + Flower = Aphrodite
+ ...
+Earth + Wind = Dust
+A+f + Dust = Aphrodite
+ ...
+A + Water = H2O
+A+f + H2O = Aphrodite
+ ...
+A+f + A+f = A+f+A+f
+A+f+A+f + Fire = Aphrodite
+ ...
+Ash + Ash = Stone
+A+f + Stone = Aphrodite
+ ...
+Earth + Tree = Forest
+A+f + Forest = Aphrodite
+ ...
+A+f + Paper = Fap
+A + Fap = Aphrodite
+ ...
+Tornado + Tree = Wood
+A+f + Wood = Aphrodite
+ ...
+Alphabet + Wind = Breeze
+A+f + Breeze = Aphrodite
+
+1 - Fertile: 
+Earth + F = Fertile
+
+2 - Baby: 
+Earth + F = Fertile
+A-f + Fertile = Baby
+ ...
+Earth + F = Fertile
+A-f + Fertile = Baby
+
+1 - Fan: 
+F + Wind = Fan
+
+2 - Fanfiction: 
+F + Wind = Fan
+A-f + Fan = Fanfiction
+ ...
+F + Wind = Fan
+A-f + Fan = Fanfiction
+
+1 - B: 
+A + Fire = B
+
+2 - C: 
+A + Fire = B
+A-f + B = C
+ ...
+A + Fire = B
+A-f + B = C
+ ...
+A+ + Paper = Grade
+Ash + Grade = C
+
+1 - H2O: 
+A + Water = H2O
+
+2 - A-f-h2o: 
+A + Water = H2O
+A-f + H2O = A-f-h2o
+ ...
+A + Water = H2O
+A-f + H2O = A-f-h2o
+
+1 - Planet: 
+A + Earth = Planet
+
+2 - Earth: 
+A + Earth = Planet
+A-f + Planet = Earth
+
+1 - G: 
+A + F = G
+
+2 - H: 
+A + F = G
+A-f + G = H
+ ...
+A + F = G
+A-f + G = H
+
+1 - A++: 
+A+ + Fire = A++
+
+2 - A+: 
+A+ + Wind = A+
+A+ + Fire = A++
+
+1 - Lemonade: 
+A+ + Water = Lemonade
+
+2 - Eve: 
+A+ + Earth = Adam
+A-f + Adam = Eve
+ ...
+A+ + Earth = Adam
+A-f + Adam = Eve
+
+1 - A+F: 
+A+ + F = A+F
+
+2 - A: 
+A + A = A
+A+ + F = A+F
+
+1 - Afro: 
+A+f + Water = Afro
+
+2 - Afro-american: 
+A+f + Water = Afro
+A-f + Afro = Afro-american
+ ...
+A+f + Water = Afro
+A-f + Afro = Afro-american
+
+1 - Africa: 
+A+f + Earth = Africa
+
+1 - AFF: 
+A+f + F = AFF
+
+2 - Affair: 
+A+f + F = AFF
+A-f + AFF = Affair
+ ...
+A+f + F = AFF
+A-f + AFF = Affair
+ ...
+A-f + F = A-ff
+A+ + A-ff = Affair
+ ...
+A-f + Water = A-f-f
+A-f-f + F = Affair
+
+1 - A+f+: 
+A+ + A+f = A+f+
+
+2 - A+f: 
+A + A+f = A+f
+A+ + A+f = A+f+
+
+1 - A+f+A+f: 
+A+f + A+f = A+f+A+f
+
+2 - A+f+a+f+A-f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + A-f = A+f+a+f+A-f
+ ...
+A+f + A+f = A+f+A+f
+A+f+A+f + A-f = A+f+a+f+A-f
+
+1 - Phoenix: 
+Ash + Fire = Phoenix
+
+2 - Firebird: 
+Ash + Fire = Phoenix
+A-f + Phoenix = Firebird
+ ...
+Ash + Fire = Phoenix
+A-f + Phoenix = Firebird
+
+1 - Puddle: 
+Ash + Water = Puddle
+
+1 - Soil: 
+Ash + Earth = Soil
+
+2 - Fossil: 
+Ash + Earth = Soil
+A-f + Soil = Fossil
+ ...
+A+ + A+f = A+f+
+A+f+ + Earth = Fossil
+ ...
+Ash + Earth = Soil
+A-f + Soil = Fossil
+ ...
+Ash + Ash = Stone
+F + Stone = Fossil
+
+1 - Fash: 
+A+f + Ash = Fash
+
+2 - Fashion: 
+A+f + Ash = Fash
+A-f + Fash = Fashion
+ ...
+A+f + Ash = Fash
+A-f + Fash = Fashion
+
+1 - Stone: 
+Ash + Ash = Stone
+
+2 - Statue: 
+Ash + Ash = Stone
+A-f + Stone = Statue
+ ...
+Ash + Ash = Stone
+A-f + Stone = Statue
+
+1 - Dirt: 
+A-z + Earth = Dirt
+
+2 - Mud: 
+A-z + Earth = Dirt
+A-f + Dirt = Mud
+ ...
+Earth + Wind = Dust
+Dust + Water = Mud
+ ...
+Fire + Water = Steam
+Earth + Steam = Mud
+ ...
+Ash + Water = Puddle
+Earth + Puddle = Mud
+ ...
+Ash + Earth = Soil
+Soil + Water = Mud
+ ...
+A-z + Earth = Dirt
+A-f + Dirt = Mud
+ ...
+Plant + Water = Swamp
+Earth + Swamp = Mud
+
+1 - A-wind: 
+A-z + Wind = A-wind
+
+2 - A-f-wind: 
+A-z + Wind = A-wind
+A-f + A-wind = A-f-wind
+ ...
+A-z + Wind = A-wind
+A-f + A-wind = A-f-wind
+
+1 - F-z: 
+A-z + F = F-z
+
+2 - A-z: 
+A-z + Fire = A-z
+A-z + F = F-z
+ ...
+A+ + A-z = A+z
+A-z + Fire = A-z
+ ...
+A-tornado + Alphabet = A-Z
+A-Z + Fire = A-z
+
+1 - A+z: 
+A+ + A-z = A+z
+
+1 - A-f-f: 
+A-f + Water = A-f-f
+
+2 - A-f-f-f: 
+A-f + Water = A-f-f
+A-f + A-f-f = A-f-f-f
+ ...
+A-f + Water = A-f-f
+A-f + A-f-f = A-f-f-f
+
+1 - A-ff: 
+A-f + F = A-ff
+
+2 - A-ff-air: 
+A-f + F = A-ff
+A-f + A-ff = A-ff-air
+ ...
+A-f + F = A-ff
+A-f + A-ff = A-ff-air
+
+1 - Ashes: 
+A-f + Ash = Ashes
+
+1 - Library: 
+Book + Earth = Library
+
+2 - Book: 
+Paper + Tree = Book
+Book + Earth = Library
+
+1 - Fbook: 
+Book + F = Fbook
+
+2 - Facebook: 
+Book + F = Fbook
+A-f + Fbook = Facebook
+ ...
+Book + F = Fbook
+A-f + Fbook = Facebook
+ ...
+A-f + Water = A-f-f
+A-f-f + Book = Facebook
+
+1 - Nerd: 
+A+ + Book = Nerd
+
+2 - Hacker: 
+A+ + Book = Nerd
+A-f + Nerd = Hacker
+ ...
+A+ + Coffee = Programmer
+A-f + Programmer = Hacker
+ ...
+A+ + Book = Nerd
+A-f + Nerd = Hacker
+ ...
+A+ + Coffee = Programmer
+A-f + Programmer = Hacker
+
+1 - Bible: 
+A-z + Book = Bible
+
+2 - Abel: 
+A-z + Book = Bible
+A-f + Bible = Abel
+ ...
+A-z + Book = Bible
+A-f + Bible = Abel
+
+1 - Bookshelf: 
+Book + Book = Bookshelf
+
+1 - River: 
+Tree + Water = River
+
+2 - A-f-r-i-c-a: 
+Tree + Water = River
+A-f + River = A-f-r-i-c-a
+ ...
+Tree + Water = River
+A-f + River = A-f-r-i-c-a
+
+1 - Forest: 
+Earth + Tree = Forest
+
+1 - Leaf: 
+Tree + Wind = Leaf
+
+2 - Maple: 
+Tree + Wind = Leaf
+A-f + Leaf = Maple
+ ...
+Tree + Wind = Leaf
+A-f + Leaf = Maple
+ ...
+F + Tornado = Funnel
+Funnel + Tree = Maple
+
+1 - Fruit: 
+F + Tree = Fruit
+
+1 - Apple: 
+A + Tree = Apple
+
+1 - Apple Tree: 
+A+f + Tree = Apple Tree
+
+1 - Swamp: 
+Plant + Water = Swamp
+
+2 - Frog: 
+Plant + Water = Swamp
+A-f + Swamp = Frog
+ ...
+A + F = G
+F + G = Frog
+ ...
+Ash + Water = Puddle
+F + Puddle = Frog
+ ...
+Plant + Water = Swamp
+A-f + Swamp = Frog
+
+1 - Dandelion: 
+Plant + Wind = Dandelion
+
+2 - Seed: 
+Plant + Wind = Dandelion
+A-f + Dandelion = Seed
+ ...
+Earth + F = Fertile
+Fertile + Paper = Seed
+ ...
+Ash + Earth = Soil
+Paper + Soil = Seed
+ ...
+Plant + Wind = Dandelion
+A-f + Dandelion = Seed
+ ...
+Homework + Wind = Flying
+Flying + Plant = Seed
+
+1 - Tobacco: 
+Ash + Plant = Tobacco
+
+2 - Cigarette: 
+Ash + Plant = Tobacco
+A-f + Tobacco = Cigarette
+ ...
+Fire + Wind = Smoke
+Pencil + Smoke = Cigarette
+ ...
+F + Water = Flower
+Ash + Flower = Cigarette
+ ...
+Tree + Wind = Leaf
+Ash + Leaf = Cigarette
+ ...
+Ash + Plant = Tobacco
+A-f + Tobacco = Cigarette
+ ...
+Earth + Pencil = Drawing
+Ash + Drawing = Cigarette
+ ...
+Alphabet + Coffee = Cappuccino
+Ash + Cappuccino = Cigarette
+
+1 - Boat: 
+Paper + Water = Boat
+
+2 - Afloat: 
+Paper + Water = Boat
+A-f + Boat = Afloat
+ ...
+Paper + Water = Boat
+A-f + Boat = Afloat
+
+1 - Map: 
+Earth + Paper = Map
+
+2 - Treasure: 
+Earth + Paper = Map
+A-f + Map = Treasure
+ ...
+Earth + Paper = Map
+A-f + Map = Treasure
+
+1 - Kite: 
+Paper + Wind = Kite
+
+1 - Flying: 
+Homework + Wind = Flying
+
+1 - A4: 
+A + Paper = A4
+
+2 - A5: 
+A + Paper = A4
+A-f + A4 = A5
+ ...
+A + Paper = A4
+A-f + A4 = A5
+
+1 - Grade: 
+A+ + Paper = Grade
+
+2 - Grade A: 
+A+ + Paper = Grade
+A-f + Grade = Grade A
+ ...
+A+ + Paper = Grade
+A-f + Grade = Grade A
+
+1 - Fap: 
+A+f + Paper = Fap
+
+2 - Fapfap: 
+A+f + Paper = Fap
+A-f + Fap = Fapfap
+ ...
+A+f + Paper = Fap
+A-f + Fap = Fapfap
+
+1 - Match: 
+Fire + Pencil = Match
+
+1 - Drawing: 
+Earth + Pencil = Drawing
+
+2 - Art: 
+Earth + Pencil = Drawing
+A-f + Drawing = Art
+ ...
+Earth + Pencil = Drawing
+A-f + Drawing = Art
+ ...
+Ash + Pencil = Crayon
+A+f + Crayon = Art
+ ...
+Alphabet + Coffee = Cappuccino
+Cappuccino + Pencil = Art
+
+1 - Pencil2: 
+A+ + Pencil = Pencil2
+
+2 - Pencil: 
+Ash + Tree = Pencil
+A+ + Pencil = Pencil2
+ ...
+Ash + Tree = Pencil
+Pencil + Tornado = Pencil Sharpener
+
+1 - Crayon: 
+Ash + Pencil = Crayon
+
+2 - Fancy: 
+Ash + Pencil = Crayon
+A-f + Crayon = Fancy
+ ...
+Ash + Pencil = Crayon
+A-f + Crayon = Fancy
+
+1 - Coffee Bean: 
+Coffee + Earth = Coffee Bean
+
+2 - Coffee: 
+Coffee + Fire = Coffee
+Coffee + Earth = Coffee Bean
+ ...
+Coffee + Fire = Coffee
+Coffee + Tornado = Mocha
+
+1 - Storm: 
+Coffee + Wind = Storm
+
+2 - Tornado: 
+Coffee + Wind = Storm
+Wind + Wind = Tornado
+ ...
+A+ + Tornado = A+Tornado
+Wind + Wind = Tornado
+
+1 - Fuck: 
+Coffee + F = Fuck
+
+1 - Programmer: 
+A+ + Coffee = Programmer
+
+1 - Caffeine: 
+A-f + Coffee = Caffeine
+
+2 - A-f-caffeine: 
+A-f + Coffee = Caffeine
+A-f + Caffeine = A-f-caffeine
+ ...
+A-f + Coffee = Caffeine
+A-f + Caffeine = A-f-caffeine
+
+1 - Study: 
+Book + Coffee = Study
+
+1 - Student: 
+Book + Homework = Student
+
+1 - Tsunami: 
+Tornado + Water = Tsunami
+
+1 - Funnel: 
+F + Tornado = Funnel
+
+2 - A-ffunnel: 
+F + Tornado = Funnel
+A-f + Funnel = A-ffunnel
+ ...
+F + Tornado = Funnel
+A-f + Funnel = A-ffunnel
+
+1 - A-Tornado: 
+A + Tornado = A-Tornado
+
+1 - A-f-tornado: 
+A+f + A-tornado = A-f-tornado
+
+1 - A+Tornado: 
+A+ + Tornado = A+Tornado
+
+1 - Hurricane: 
+A-z + Tornado = Hurricane
+
+2 - A-f-hurricane: 
+A-z + Tornado = Hurricane
+A-f + Hurricane = A-f-hurricane
+ ...
+A-z + Tornado = Hurricane
+A-f + Hurricane = A-f-hurricane
+
+1 - Wood: 
+Tornado + Tree = Wood
+
+2 - Firewood: 
+Tornado + Tree = Wood
+A-f + Wood = Firewood
+ ...
+Tornado + Tree = Wood
+A-f + Wood = Firewood
+
+1 - Confetti: 
+Paper + Tornado = Confetti
+
+2 - Party: 
+Paper + Tornado = Confetti
+A-f + Confetti = Party
+ ...
+Paper + Tornado = Confetti
+A-f + Confetti = Party
+
+1 - Pencil Sharpener: 
+Pencil + Tornado = Pencil Sharpener
+
+1 - Mocha: 
+Coffee + Tornado = Mocha
+
+1 - A+f+homework: 
+A+f + Homework = A+f+homework
+
+2 - Teacher: 
+Book + Homework = Student
+A-f + Student = Teacher
+ ...
+A + Tree = Apple
+A + Apple = Teacher
+ ...
+A+f + Tree = Apple Tree
+Apple Tree + Homework = Teacher
+ ...
+Book + Homework = Student
+A-f + Student = Teacher
+
+1 - Alphabet Soup: 
+Alphabet + Fire = Alphabet Soup
+
+1 - Breeze: 
+Alphabet + Wind = Breeze
+
+1 - Aardvark: 
+A + Alphabet = Aardvark
+
+1 - Dictionary: 
+A-z + Alphabet = Dictionary
+
+2 - Fictionary: 
+A-z + Alphabet = Dictionary
+A-f + Dictionary = Fictionary
+ ...
+A-z + Alphabet = Dictionary
+A-f + Dictionary = Fictionary
+
+1 - Alphabet soup: 
+A-f + Alphabet = Alphabet soup
+
+1 - Letter: 
+Alphabet + Pencil = Letter
+
+2 - Alphabet: 
+A + Book = Alphabet
+Alphabet + Pencil = Letter
+ ...
+A-tornado + A-z = A-to-z
+A + Book = Alphabet
+
+1 - Cappuccino: 
+Alphabet + Coffee = Cappuccino
+
+1 - Google: 
+Alphabet + Homework = Google
+
+2 - Gmail: 
+Alphabet + Homework = Google
+A-f + Google = Gmail
+ ...
+Alphabet + Homework = Google
+A-f + Google = Gmail
+
+1 - Word: 
+Alphabet + Alphabet = Word
+
+2 - F-word: 
+Alphabet + Alphabet = Word
+A-f + Word = F-word
+ ...
+Alphabet + Alphabet = Word
+A-f + Word = F-word
+
+1 - Fire Tornado: 
+A-tornado + Fire = Fire Tornado
+
+1 - A-to-z: 
+A-tornado + A-z = A-to-z
+
+1 - Eraser: 
+A-tornado + Pencil = Eraser
+
+2 - Fear: 
+A-tornado + Pencil = Eraser
+A-f + Eraser = Fear
+ ...
+A-tornado + Pencil = Eraser
+A-f + Eraser = Fear
+
+1 - A-Z: 
+A-tornado + Alphabet = A-Z
+
+2 - Eruption: 
+Fire + Fire = Volcano
+Volcano + Wind = Eruption
+
+2 - Cloud: 
+Fire + Water = Steam
+Steam + Steam = Cloud
+ ...
+Fire + Wind = Smoke
+Smoke + Smoke = Cloud
+ ...
+A + Water = H2O
+H2O + Wind = Cloud
+ ...
+Alphabet + Coffee = Cappuccino
+Cappuccino + Wind = Cloud
+
+2 - Ocean: 
+Water + Water = Lake
+Lake + Lake = Ocean
+ ...
+A + Earth = Planet
+Planet + Water = Ocean
+ ...
+Tornado + Water = Tsunami
+Tsunami + Water = Ocean
+
+2 - Magma: 
+Earth + Fire = Lava
+F + Lava = Magma
+
+2 - Mountain Range: 
+Earth + Earth = Mountain
+Mountain + Mountain = Mountain Range
+
+2 - Sand: 
+Water + Wind = Wave
+Earth + Wave = Sand
+ ...
+Earth + Wind = Dust
+Dust + Dust = Sand
+ ...
+Ash + Ash = Stone
+Stone + Wind = Sand
+
+2 - Garden: 
+F + Water = Flower
+Flower + Flower = Garden
+ ...
+Ash + Earth = Soil
+Homework + Soil = Garden
+ ...
+A-tornado + A-z = A-to-z
+A-to-z + Plant = Garden
+
+2 - Sun: 
+F + Fire = Flare
+Fire + Flare = Sun
+ ...
+A + Earth = Planet
+Fire + Planet = Sun
+
+2 - Rain: 
+Tree + Water = River
+River + Wind = Rain
+ ...
+Coffee + Wind = Storm
+Storm + Water = Rain
+ ...
+Paper + Tornado = Confetti
+Confetti + Water = Rain
+
+2 - Engine: 
+Fire + Water = Steam
+Fire + Steam = Engine
+
+3 - Poseidon: 
+Water + Water = Lake
+Lake + Lake = Ocean
+A-f + Ocean = Poseidon
+ ...
+A + Earth = Planet
+Planet + Water = Ocean
+A-f + Ocean = Poseidon
+ ...
+Tornado + Water = Tsunami
+Tsunami + Water = Ocean
+A-f + Ocean = Poseidon
+
+2 - Flake: 
+Water + Water = Lake
+F + Lake = Flake
+
+2 - Alpha: 
+Earth + Fire = Lava
+A+f + Lava = Alpha
+
+3 - Alps: 
+Earth + Earth = Mountain
+Mountain + Mountain = Mountain Range
+A-f + Mountain Range = Alps
+
+2 - Glass: 
+Alphabet + Homework = Google
+Ash + Google = Glass
+
+2 - Lily: 
+F + Water = Flower
+Flower + Water = Lily
+ ...
+Water + Water = Lake
+Lake + Plant = Lily
+
+2 - Sunflower: 
+F + Fire = Flare
+Flare + Plant = Sunflower
+
+2 - Aflame: 
+F + Fire = Flare
+A + Flare = Aflame
+ ...
+A+ + Water = Lemonade
+A+f + Lemonade = Aflame
+ ...
+Fire + Pencil = Match
+A+f + Match = Aflame
+
+2 - Fertilizer: 
+Earth + F = Fertile
+F + Fertile = Fertilizer
+ ...
+Ash + Earth = Soil
+F + Soil = Fertilizer
+ ...
+A-z + Earth = Dirt
+Dirt + F = Fertilizer
+ ...
+A+f + Paper = Fap
+Earth + Fap = Fertilizer
+
+3 - Foghorn: 
+Fire + Wind = Smoke
+A-f + Smoke = Fog
+A-f + Fog = Foghorn
+ ...
+Coffee + Wind = Storm
+F + Storm = Fog
+A-f + Fog = Foghorn
+
+2 - B-z: 
+Fire + Wind = Smoke
+A-z + Smoke = B-z
+ ...
+Coffee + Wind = Storm
+A-z + Storm = B-z
+
+3 - Snowflake: 
+Water + Water = Lake
+F + Lake = Flake
+A-f + Flake = Snowflake
+
+2 - Algae: 
+Water + Water = Lake
+A + Lake = Algae
+
+2 - Fart: 
+Earth + Wind = Dust
+Dust + F = Fart
+ ...
+A+f + Paper = Fap
+Fap + Wind = Fart
+ ...
+Earth + Pencil = Drawing
+Drawing + F = Fart
+ ...
+A+ + Tornado = A+Tornado
+A+Tornado + F = Fart
+ ...
+Alphabet + Wind = Breeze
+Breeze + F = Fart
+
+2 - Sandstorm: 
+Earth + Wind = Dust
+Dust + Wind = Sandstorm
+
+3 - Snowman: 
+Earth + Earth = Mountain
+A-f + Mountain = Avalanche
+A-f + Avalanche = Snowman
+ ...
+Ash + Ash = Stone
+Stone + Tornado = Avalanche
+A-f + Avalanche = Snowman
+ ...
+Paper + Tornado = Confetti
+Confetti + Paper = Snow
+A-f + Snow = Snowman
+
+2 - Fountain: 
+Earth + Earth = Mountain
+F + Mountain = Fountain
+
+2 - Surfboard: 
+Water + Wind = Wave
+Tree + Wave = Surfboard
+
+2 - Swell: 
+Water + Wind = Wave
+A + Wave = Swell
+
+2 - Fsteam: 
+Fire + Water = Steam
+F + Steam = Fsteam
+
+3 - Afro Lily: 
+F + Water = Flower
+Flower + Water = Lily
+A-f + Lily = Afro Lily
+ ...
+Water + Water = Lake
+Lake + Plant = Lily
+A-f + Lily = Afro Lily
+
+2 - Bee: 
+F + Water = Flower
+A + Flower = Bee
+
+3 - Plant: 
+Earth + F = Fertile
+F + Fertile = Fertilizer
+Earth + Water = Plant
+ ...
+Earth + Water = Plant
+Ash + Earth = Soil
+F + Soil = Fertilizer
+ ...
+A-z + Earth = Dirt
+Dirt + F = Fertilizer
+Earth + Water = Plant
+ ...
+A+f + Paper = Fap
+Earth + Fap = Fertilizer
+Earth + Water = Plant
+
+3 - Flame: 
+F + Fire = Flare
+A + Flare = Aflame
+A-f + Aflame = Flame
+ ...
+A+ + Water = Lemonade
+A+f + Lemonade = Aflame
+A-f + Aflame = Flame
+ ...
+Fire + Pencil = Match
+A+f + Match = Aflame
+A-f + Aflame = Flame
+
+2 - Torch: 
+F + Fire = Flare
+Book + Flare = Torch
+
+3 - C-y: 
+Fire + Wind = Smoke
+A-z + Smoke = B-z
+A-f + B-z = C-y
+ ...
+Coffee + Wind = Storm
+A-z + Storm = B-z
+A-f + B-z = C-y
+
+2 - Incense: 
+Fire + Wind = Smoke
+Plant + Smoke = Incense
+
+2 - Windmill: 
+F + Wind = Fan
+Fan + Fan = Windmill
+ ...
+Paper + Wind = Kite
+Kite + Kite = Windmill
+
+2 - Seaweed: 
+Water + Wind = Wave
+Plant + Wave = Seaweed
+
+2 - Aflac: 
+Water + Water = Lake
+A+f + Lake = Aflac
+
+3 - Fountain of Youth: 
+Earth + Earth = Mountain
+F + Mountain = Fountain
+A-f + Fountain = Fountain of Youth
+
+2 - Alp: 
+Earth + Earth = Mountain
+A + Mountain = Alp
+
+3 - Honey: 
+F + Water = Flower
+A + Flower = Bee
+A-f + Bee = Honey
+
+2 - Rose: 
+F + Water = Flower
+A+ + Flower = Rose
+
+3 - Dune: 
+Earth + Wind = Dust
+Dust + Wind = Sandstorm
+A-f + Sandstorm = Dune
+
+2 - A-wave: 
+Water + Wind = Wave
+A-z + Wave = A-wave
+
+3 - A-f: 
+A+f + A-z = A-f
+Earth + F = Fertile
+A-f + Fertile = Baby
+ ...
+A+f + A-z = A-f
+F + Fire = Flare
+Flare + Pencil = Firework
+ ...
+A+f + A-z = A-f
+A+ + Water = Lemonade
+Homework + Lemonade = Procrastination
+ ...
+A+f + A-z = A-f
+Paper + Wind = Kite
+Fire + Kite = Fireworks
+ ...
+A+f + A-z = A-f
+Earth + Pencil = Drawing
+Drawing + Fire = Fireworks
+ ...
+A+f + A-z = A-f
+A+f + Paper = Fap
+Fap + Homework = Procrastination
+ ...
+A+f + A-z = A-f
+Paper + Tornado = Confetti
+Confetti + Fire = Fireworks
+ ...
+A+f + A-z = A-f
+F + Tornado = Funnel
+Book + Funnel = Filter
+ ...
+A+f + A-z = A-f
+A-z + Alphabet = Dictionary
+Dictionary + Tornado = Chaos
+
+2 - Pine: 
+F + Fire = Flare
+Flare + Tree = Pine
+
+3 - A-fsteam: 
+Fire + Water = Steam
+F + Steam = Fsteam
+A-f + Fsteam = A-fsteam
+
+2 - Asteam: 
+Fire + Water = Steam
+A + Steam = Asteam
+
+2 - Blow: 
+F + Wind = Fan
+A + Fan = Blow
+ ...
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Wind = Blow
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Wind = Blow
+
+3 - Duck: 
+Water + Water = Lake
+A+f + Lake = Aflac
+A-f + Aflac = Duck
+
+2 - Mount Everest: 
+Earth + Earth = Mountain
+A+ + Mountain = Mount Everest
+
+3 - A-f-wave: 
+Water + Wind = Wave
+A-z + Wave = A-wave
+A-f + A-wave = A-f-wave
+
+3 - Pineapple: 
+F + Fire = Flare
+Flare + Tree = Pine
+A-f + Pine = Pineapple
+
+2 - Smoke-tornado: 
+Fire + Wind = Smoke
+A-tornado + Smoke = Smoke-tornado
+
+2 - Bouquet: 
+F + Water = Flower
+Book + Flower = Bouquet
+
+2 - Latte: 
+Water + Water = Lake
+Coffee + Lake = Latte
+ ...
+A + Paper = A4
+A4 + Coffee = Latte
+ ...
+Coffee + Tornado = Mocha
+Coffee + Mocha = Latte
+ ...
+Alphabet + Coffee = Cappuccino
+Cappuccino + Cappuccino = Latte
+
+2 - Cinder: 
+Earth + Wind = Dust
+Ash + Dust = Cinder
+
+2 - Mt. Fuji: 
+Earth + Earth = Mountain
+A+f + Mountain = Mt. Fuji
+
+3 - A-f-blow: 
+F + Wind = Fan
+A + Fan = Blow
+A-f + Blow = A-f-blow
+ ...
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Wind = Blow
+A-f + Blow = A-f-blow
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Wind = Blow
+A-f + Blow = A-f-blow
+
+2 - Fanboy: 
+F + Wind = Fan
+A+ + Fan = Fanboy
+
+2 - Boulder: 
+A + Fire = B
+B + B = Boulder
+ ...
+Ash + Ash = Stone
+Stone + Stone = Boulder
+
+3 - Surfer: 
+Water + Wind = Wave
+Tree + Wave = Surfboard
+A-f + Surfboard = Surfer
+
+2 - Firework: 
+F + Fire = Flare
+Flare + Pencil = Firework
+
+3 - Fire-tornado: 
+Fire + Wind = Smoke
+A-tornado + Smoke = Smoke-tornado
+A-f + Smoke-tornado = Fire-tornado
+
+2 - Aftermath: 
+Fire + Water = Steam
+A+f + Steam = Aftermath
+
+2 - Cyclone: 
+F + Water = Flower
+Flower + Tornado = Cyclone
+ ...
+A + Earth = Planet
+Planet + Tornado = Cyclone
+ ...
+Plant + Water = Swamp
+Swamp + Tornado = Cyclone
+ ...
+A-z + Tornado = Hurricane
+Alphabet + Hurricane = Cyclone
+
+3 - Japan: 
+Earth + Earth = Mountain
+A+f + Mountain = Mt. Fuji
+A-f + Mt. Fuji = Japan
+
+2 - Molehill: 
+Earth + Earth = Mountain
+Homework + Mountain = Molehill
+
+3 - Ash: 
+Ash + F = Ash
+Earth + Wind = Dust
+Ash + Dust = Cinder
+ ...
+Ash + F = Ash
+A + Fire = B
+Ash + B = Cinderella
+ ...
+A-f + F = A-ff
+Ash + F = Ash
+A-ff + Ash = Cinderella
+ ...
+Alphabet + Fire = Alphabet Soup
+Ash + F = Ash
+Alphabet Soup + Ash = Cinderella
+ ...
+A-f + Alphabet = Alphabet soup
+Ash + F = Ash
+Alphabet soup + Ash = Cinderella
+ ...
+Ash + F = Ash
+A-z + Alphabet = Dictionary
+Ash + Dictionary = Cinderella
+
+2 - Pollen: 
+Earth + Wind = Dust
+Dust + Plant = Pollen
+
+3 - D: 
+A + Fire = B
+A-f + B = C
+A-f + C = D
+ ...
+A+ + Paper = Grade
+Ash + Grade = C
+A-f + C = D
+
+2 - Bottle: 
+A + Fire = B
+B + Water = Bottle
+ ...
+F + Tornado = Funnel
+A + Funnel = Bottle
+
+2 - Affan: 
+F + Wind = Fan
+A+f + Fan = Affan
+
+2 - Ice: 
+A + Water = H2O
+H2O + Water = Ice
+ ...
+Pencil + Tornado = Pencil Sharpener
+Pencil Sharpener + Water = Ice
+
+3 - F-bomb: 
+Fire + Water = Steam
+A+f + Steam = Aftermath
+A-f + Aftermath = F-bomb
+ ...
+Tornado + Water = Tsunami
+Tornado + Tsunami = Destruction
+A-f + Destruction = F-bomb
+
+2 - Steampunk: 
+Fire + Water = Steam
+Book + Steam = Steampunk
+
+2 - Star: 
+A + Earth = Planet
+Planet + Planet = Star
+
+2 - Alpabet: 
+Earth + Earth = Mountain
+Alphabet + Mountain = Alpabet
+
+2 - Wine: 
+Plant + Wind = Dandelion
+Dandelion + Water = Wine
+
+2 - Bread: 
+A + Fire = B
+B + Earth = Bread
+
+2 - Coffee Grounds: 
+Earth + Wind = Dust
+Coffee + Dust = Coffee Grounds
+
+2 - GG: 
+A + F = G
+G + G = GG
+
+3 - Ice Cream: 
+A + Water = H2O
+H2O + Water = Ice
+A-f + Ice = Ice Cream
+ ...
+Pencil + Tornado = Pencil Sharpener
+Pencil Sharpener + Water = Ice
+A-f + Ice = Ice Cream
+
+2 - Fh2o: 
+A + Water = H2O
+F + H2O = Fh2o
+
+2 - A+++: 
+A+ + Fire = A++
+A++ + A++ = A+++
+
+2 - Pitcher of Lemonade: 
+A+ + Water = Lemonade
+Lemonade + Lemonade = Pitcher of Lemonade
+
+3 - A-f-fan: 
+F + Wind = Fan
+A+f + Fan = Affan
+A-f + Affan = A-f-fan
+
+2 - Tea: 
+Fire + Water = Steam
+Plant + Steam = Tea
+ ...
+Tree + Wind = Leaf
+Leaf + Water = Tea
+ ...
+Ash + Plant = Tobacco
+Tobacco + Water = Tea
+
+3 - Asterisk: 
+A + Earth = Planet
+Planet + Planet = Star
+A-f + Star = Asterisk
+
+2 - Moon: 
+A + Earth = Planet
+Earth + Planet = Moon
+
+3 - Sandwich: 
+A + Fire = B
+B + Earth = Bread
+A-f + Bread = Sandwich
+
+2 - BF: 
+A + Fire = B
+B + F = BF
+
+3 - Hh: 
+A + F = G
+G + G = GG
+A-f + GG = Hh
+
+2 - GIF: 
+A + F = G
+Fire + G = GIF
+
+2 - Dust Storm: 
+Earth + Wind = Dust
+Dust + Tornado = Dust Storm
+
+3 - Af2o: 
+A + Water = H2O
+F + H2O = Fh2o
+A-f + Fh2o = Af2o
+
+2 - H2o: 
+A + Water = H2O
+A + H2O = H2o
+
+2 - H2o2: 
+A + Water = H2O
+A+ + H2O = H2o2
+
+2 - A++f: 
+A+ + Fire = A++
+A++ + A+f = A++f
+
+2 - Lemonade Stand: 
+A+ + Water = Lemonade
+Book + Lemonade = Lemonade Stand
+
+2 - Fireade: 
+A+ + Water = Lemonade
+Fire + Lemonade = Fireade
+
+2 - Origami: 
+F + Wind = Fan
+Fan + Paper = Origami
+ ...
+A+f + A+f = A+f+A+f
+A+f+A+f + Paper = Origami
+ ...
+A + Alphabet = Aardvark
+Aardvark + Paper = Origami
+
+2 - Clean: 
+Fire + Water = Steam
+Homework + Steam = Clean
+
+3 - Werewolf: 
+A + Earth = Planet
+Earth + Planet = Moon
+A-f + Moon = Werewolf
+
+2 - Saturn: 
+A + Earth = Planet
+Pencil + Planet = Saturn
+
+2 - Allergies: 
+Earth + Wind = Dust
+Dust + Homework = Allergies
+ ...
+Plant + Wind = Dandelion
+Dandelion + Homework = Allergies
+
+3 - Cf: 
+A + Fire = B
+B + F = BF
+A-f + BF = Cf
+
+2 - Cinderella: 
+A + Fire = B
+Ash + B = Cinderella
+ ...
+A-f + F = A-ff
+A-ff + Ash = Cinderella
+ ...
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Ash = Cinderella
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Ash = Cinderella
+ ...
+A-z + Alphabet = Dictionary
+Ash + Dictionary = Cinderella
+
+3 - Gif: 
+A + F = G
+Fire + G = GIF
+A-f + GIF = Gif
+
+2 - Gator: 
+A + F = G
+G + Water = Gator
+
+2 - A to Z: 
+A+ + Fire = A++
+A++ + A-z = A to Z
+
+2 - PH: 
+A + Water = H2O
+Ash + H2O = PH
+
+2 - Firefighter: 
+A-f + F = A-ff
+A-ff + Fire = Firefighter
+ ...
+A+f + Paper = Fap
+Fap + Fire = Firefighter
+
+2 - Fanta: 
+A+ + Water = Lemonade
+F + Lemonade = Fanta
+
+2 - Man: 
+A+ + Earth = Adam
+Adam + Earth = Man
+
+3 - Paper: 
+F + Wind = Fan
+Fan + Paper = Origami
+Book + Water = Paper
+ ...
+A+f + A+f = A+f+A+f
+A+f+A+f + Paper = Origami
+Book + Water = Paper
+ ...
+A+f + Homework = A+f+homework
+A+f+homework + Paper = Crumpled
+Book + Water = Paper
+ ...
+A + Alphabet = Aardvark
+Aardvark + Paper = Origami
+Book + Water = Paper
+
+2 - Fanart: 
+F + Wind = Fan
+Fan + Pencil = Fanart
+
+3 - Fresh: 
+Fire + Water = Steam
+Homework + Steam = Clean
+A-f + Clean = Fresh
+
+2 - Steam-tornado: 
+Fire + Water = Steam
+A-tornado + Steam = Steam-tornado
+
+3 - Sneeze: 
+Earth + Wind = Dust
+Dust + Homework = Allergies
+A-f + Allergies = Sneeze
+ ...
+Plant + Wind = Dandelion
+Dandelion + Homework = Allergies
+A-f + Allergies = Sneeze
+
+2 - Starbucks: 
+A + Earth = Planet
+Coffee + Planet = Starbucks
+
+2 - Alligator: 
+Plant + Water = Swamp
+Homework + Swamp = Alligator
+
+2 - Gear: 
+A + F = G
+Earth + G = Gear
+
+2 - Report: 
+A+ + Fire = A++
+A++ + Paper = Report
+ ...
+A+ + Paper = Grade
+Grade + Paper = Report
+ ...
+Alphabet + Pencil = Letter
+Homework + Letter = Report
+
+2 - Bonsai: 
+A + Fire = B
+B + Tree = Bonsai
+
+2 - Lemon: 
+A+ + Water = Lemonade
+A + Lemonade = Lemon
+
+3 - Phaf: 
+A + Water = H2O
+Ash + H2O = PH
+A-f + PH = Phaf
+
+3 - Woman: 
+A+ + Earth = Adam
+Adam + Earth = Man
+A-f + Man = Woman
+
+2 - Adamant: 
+A+ + Earth = Adam
+Adam + Ash = Adamant
+
+2 - Coffee Grinder: 
+F + Wind = Fan
+Coffee + Fan = Coffee Grinder
+ ...
+Pencil + Tornado = Pencil Sharpener
+Coffee + Pencil Sharpener = Coffee Grinder
+
+2 - Pluto: 
+A + Earth = Planet
+Homework + Planet = Pluto
+
+3 - Gearbox: 
+A + F = G
+Earth + G = Gear
+A-f + Gear = Gearbox
+
+2 - Gale: 
+A + F = G
+G + Wind = Gale
+
+3 - Tree: 
+A + Fire = B
+B + Tree = Bonsai
+Earth + Plant = Tree
+ ...
+A + F = G
+G + Tree = Groot
+Earth + Plant = Tree
+
+2 - BP: 
+A + Fire = B
+B + Paper = BP
+
+3 - Adamantium: 
+A+ + Earth = Adam
+Adam + Ash = Adamant
+A-f + Adamant = Adamantium
+
+2 - Artist: 
+A+ + Earth = Adam
+Adam + Pencil = Artist
+ ...
+Ash + Pencil = Crayon
+A+ + Crayon = Artist
+
+2 - Soda: 
+A+ + Water = Lemonade
+Ash + Lemonade = Soda
+ ...
+A+ + A+f = A+f+
+A+f+ + Water = Soda
+
+3 - Fareport: 
+A+ + Fire = A++
+A++ + Paper = Report
+A-f + Report = Fareport
+ ...
+A+ + Paper = Grade
+Grade + Paper = Report
+A-f + Report = Fareport
+ ...
+Alphabet + Pencil = Letter
+Homework + Letter = Report
+A-f + Report = Fareport
+
+2 - Computer: 
+A+ + Fire = A++
+A++ + Alphabet = Computer
+ ...
+A+ + Coffee = Programmer
+Paper + Programmer = Computer
+
+3 - A-f-h2o-o: 
+A + Water = H2O
+A-f + H2O = A-f-h2o
+A-f + A-f-h2o = A-f-h2o-o
+
+2 - Oxygen: 
+A + Water = H2O
+H2O + Plant = Oxygen
+
+2 - Ventilator: 
+F + Wind = Fan
+Alphabet + Fan = Ventilator
+
+3 - Plutonium: 
+A + Earth = Planet
+Homework + Planet = Pluto
+A-f + Pluto = Plutonium
+
+3 - C-f: 
+A + Fire = B
+B + Paper = BP
+A-f + BP = C-f
+
+2 - Watercolor: 
+A + Water = H2O
+H2O + Pencil = Watercolor
+
+3 - Fartist: 
+A+ + Earth = Adam
+Adam + Pencil = Artist
+A-f + Artist = Fartist
+ ...
+Ash + Pencil = Crayon
+A+ + Crayon = Artist
+A-f + Artist = Fartist
+
+2 - Tornadam: 
+A+ + Earth = Adam
+Adam + Tornado = Tornadam
+
+2 - Dreadlocks: 
+A+f + Water = Afro
+Afro + Afro = Dreadlocks
+
+3 - Prince: 
+A + F = G
+F + G = Frog
+A-f + Frog = Prince
+ ...
+Ash + Water = Puddle
+F + Puddle = Frog
+A-f + Frog = Prince
+ ...
+Plant + Water = Swamp
+A-f + Swamp = Frog
+A-f + Frog = Prince
+
+2 - Painting: 
+Earth + Pencil = Drawing
+Drawing + Drawing = Painting
+
+2 - Money: 
+A+ + Water = Lemonade
+Lemonade + Paper = Money
+ ...
+A-z + Earth = Dirt
+Dirt + Paper = Money
+ ...
+A+f + Earth = Africa
+Africa + Paper = Money
+ ...
+A+f + Water = Afro
+Afro + Paper = Money
+ ...
+Plant + Water = Swamp
+Paper + Swamp = Money
+ ...
+A+f + Paper = Fap
+Fap + Paper = Money
+
+2 - Atom: 
+A+ + Earth = Adam
+A-tornado + Adam = Atom
+
+2 - Bob Marley: 
+A+f + Water = Afro
+Afro + Tree = Bob Marley
+
+2 - Burn: 
+A+f + Water = Afro
+Afro + Fire = Burn
+ ...
+A+f + Homework = A+f+homework
+A+f+homework + Fire = Burn
+ ...
+Alphabet + Pencil = Letter
+Fire + Letter = Burn
+ ...
+A-z + Alphabet = Dictionary
+Dictionary + Fire = Burn
+ ...
+Alphabet + Alphabet = Word
+Fire + Word = Burn
+
+2 - Desert: 
+A+f + Earth = Africa
+Africa + Africa = Desert
+
+3 - A-h: 
+A + F = G
+A-f + G = H
+A-f + H = A-h
+
+2 - G+: 
+A + F = G
+A+ + G = G+
+
+2 - Pond: 
+Ash + Water = Puddle
+Puddle + Puddle = Pond
+
+3 - Rich: 
+A+ + Water = Lemonade
+Lemonade + Paper = Money
+A-f + Money = Rich
+ ...
+A-z + Earth = Dirt
+Dirt + Paper = Money
+A-f + Money = Rich
+ ...
+A+f + Earth = Africa
+Africa + Paper = Money
+A-f + Money = Rich
+ ...
+A+f + Water = Afro
+Afro + Paper = Money
+A-f + Money = Rich
+ ...
+Plant + Water = Swamp
+Paper + Swamp = Money
+A-f + Money = Rich
+ ...
+A+f + Paper = Fap
+Fap + Paper = Money
+A-f + Money = Rich
+
+2 - Sour: 
+A+ + Water = Lemonade
+Lemonade + Pencil = Sour
+
+3 - Fat: 
+A+ + Earth = Adam
+A-tornado + Adam = Atom
+A-f + Atom = Fat
+
+2 - Aff: 
+A+f + F = AFF
+AFF + AFF = Aff
+
+2 - Affinity: 
+A+f + F = AFF
+AFF + Water = Affinity
+
+2 - Hair: 
+A+f + Water = Afro
+Afro + Water = Hair
+
+2 - Aphoenix: 
+Ash + Fire = Phoenix
+A + Phoenix = Aphoenix
+
+3 - Oasis: 
+A+f + Earth = Africa
+Africa + Africa = Desert
+A-f + Desert = Oasis
+ ...
+A+f + Earth = Africa
+A-tornado + Africa = Sahara
+A-f + Sahara = Oasis
+
+2 - Nile: 
+A+f + Earth = Africa
+Africa + Water = Nile
+
+2 - Cash: 
+A + F = G
+Ash + G = Cash
+ ...
+A+f + F = AFF
+AFF + Paper = Cash
+
+2 - P: 
+Ash + Water = Puddle
+A + Puddle = P
+ ...
+Pencil + Tornado = Pencil Sharpener
+F + Pencil Sharpener = P
+
+2 - Pottery: 
+Ash + Earth = Soil
+Ash + Soil = Pottery
+
+2 - Procrastination: 
+A+ + Water = Lemonade
+Homework + Lemonade = Procrastination
+ ...
+A+f + Paper = Fap
+Fap + Homework = Procrastination
+
+2 - African: 
+A+f + Water = Afro
+A + Afro = African
+
+2 - Affe: 
+A+f + F = AFF
+AFF + F = Affe
+
+2 - Rebirth: 
+Ash + Fire = Phoenix
+Ash + Phoenix = Rebirth
+
+2 - A+f+a+f+A+f+a+f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + A+f+A+f = A+f+a+f+A+f+a+f
+
+3 - Pharaoh: 
+A+f + Earth = Africa
+Africa + Water = Nile
+A-f + Nile = Pharaoh
+ ...
+Plant + Water = Swamp
+Book + Swamp = Mummy
+A-f + Mummy = Pharaoh
+
+2 - Afrika: 
+A+f + Earth = Africa
+A + Africa = Afrika
+
+3 - Fossil Fuel: 
+A+ + A+f = A+f+
+A+f+ + Earth = Fossil
+A-f + Fossil = Fossil Fuel
+ ...
+Ash + Earth = Soil
+A-f + Soil = Fossil
+A-f + Fossil = Fossil Fuel
+ ...
+Ash + Ash = Stone
+F + Stone = Fossil
+A-f + Fossil = Fossil Fuel
+
+2 - Airplane: 
+A+ + A+f = A+f+
+A+f+ + Wind = Airplane
+ ...
+Homework + Wind = Flying
+A+ + Flying = Airplane
+
+3 - Cashier: 
+A + F = G
+Ash + G = Cash
+A-f + Cash = Cashier
+ ...
+A+f + F = AFF
+AFF + Paper = Cash
+A-f + Cash = Cashier
+
+2 - G-z: 
+A + F = G
+A-z + G = G-z
+
+3 - P-f: 
+Ash + Water = Puddle
+A + Puddle = P
+A-f + P = P-f
+ ...
+Pencil + Tornado = Pencil Sharpener
+F + Pencil Sharpener = P
+A-f + P = P-f
+
+2 - Paper Mache: 
+Ash + Water = Puddle
+Paper + Puddle = Paper Mache
+
+3 - Vase: 
+Ash + Earth = Soil
+Ash + Soil = Pottery
+A-f + Pottery = Vase
+
+2 - Potato: 
+Ash + Earth = Soil
+A-z + Soil = Potato
+
+2 - Punch: 
+A+ + Water = Lemonade
+Alphabet + Lemonade = Punch
+
+2 - A+fro: 
+A+f + Water = Afro
+A+ + Afro = A+fro
+
+2 - A+f+a+f+f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + F = A+f+a+f+f
+
+2 - Groot: 
+A + F = G
+G + Tree = Groot
+
+2 - Afrikaans: 
+A+f + Earth = Africa
+A+ + Africa = Afrikaans
+
+3 - Fighter: 
+A+ + A+f = A+f+
+A+f+ + Wind = Airplane
+A-f + Airplane = Fighter
+ ...
+Homework + Wind = Flying
+A+ + Flying = Airplane
+A-f + Airplane = Fighter
+
+2 - A-a: 
+A+ + A+f = A+f+
+A+f+ + A-z = A-a
+
+3 - Fries: 
+Ash + Earth = Soil
+A-z + Soil = Potato
+A-f + Potato = Fries
+
+3 - Mask: 
+Ash + Water = Puddle
+Paper + Puddle = Paper Mache
+A-f + Paper Mache = Mask
+
+3 - K.O.: 
+A+ + Water = Lemonade
+Alphabet + Lemonade = Punch
+A-f + Punch = K.O.
+
+3 - A-fro: 
+A+f + Water = Afro
+A+ + Afro = A+fro
+A+fro + A-f = A-fro
+
+2 - Afro Samurai: 
+A+f + Water = Afro
+A+f + Afro = Afro Samurai
+
+3 - Scandal: 
+A+f + F = AFF
+A-f + AFF = Affair
+A-f + Affair = Scandal
+ ...
+A-f + F = A-ff
+A+ + A-ff = Affair
+A-f + Affair = Scandal
+ ...
+A-f + Water = A-f-f
+A-f-f + F = Affair
+A-f + Affair = Scandal
+
+2 - Affogato: 
+A+f + F = AFF
+AFF + Coffee = Affogato
+ ...
+A-f + Water = A-f-f
+A-f-f + Coffee = Affogato
+
+3 - A+f+a+f+f+A-f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + F = A+f+a+f+f
+A+f+a+f+f + A-f = A+f+a+f+f+A-f
+
+2 - Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa: 
+A+f + A+f = A+f+A+f
+A + A+f+A+f = Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+2 - A+f+a+f+a+f+a+f+a+f+: 
+A+f + A+f = A+f+A+f
+A+f + A+f+A+f = A+f+a+f+a+f+a+f+a+f+
+
+2 - Grow: 
+A + F = G
+G + Plant = Grow
+
+2 - Rock: 
+Ash + Ash = Stone
+Stone + Water = Rock
+ ...
+Ash + Pencil = Crayon
+Crayon + Earth = Rock
+
+2 - Grass: 
+A-z + Earth = Dirt
+Dirt + Dirt = Grass
+
+2 - Egypt: 
+A+f + Earth = Africa
+Africa + Ash = Egypt
+
+3 - A-e: 
+A+ + A+f = A+f+
+A+f+ + A-z = A-a
+A-a + A-f = A-e
+
+2 - Afroman: 
+A+f + Water = Afro
+A-z + Afro = Afroman
+
+2 - Affirmative: 
+A+f + F = AFF
+AFF + Homework = Affirmative
+
+2 - A-f+a-f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + A-z = A-f+a-f
+
+2 - Gift: 
+A + F = G
+G + Paper = Gift
+
+3 - Fashionista: 
+A+f + Ash = Fash
+A-f + Fash = Fashion
+A-f + Fashion = Fashionista
+
+2 - Flash: 
+A+f + Ash = Fash
+Ash + Fash = Flash
+
+3 - Lawn: 
+A-z + Earth = Dirt
+Dirt + Dirt = Grass
+A-f + Grass = Lawn
+
+2 - Brick: 
+A-z + Earth = Dirt
+Dirt + Fire = Brick
+
+3 - Pyramid: 
+A+f + Earth = Africa
+Africa + Ash = Egypt
+A-f + Egypt = Pyramid
+
+2 - Azania: 
+A+f + Earth = Africa
+A-z + Africa = Azania
+
+3 - Because I Got High: 
+A+f + Water = Afro
+A-z + Afro = Afroman
+A-f + Afroman = Because I Got High
+
+2 - Lightning: 
+Coffee + Wind = Storm
+Storm + Tree = Lightning
+
+3 - Wall: 
+A-z + Earth = Dirt
+Dirt + Fire = Brick
+A-f + Brick = Wall
+
+2 - Archaeology: 
+A-z + Earth = Dirt
+Book + Dirt = Archaeology
+
+3 - Present: 
+A + F = G
+G + Paper = Gift
+A-f + Gift = Present
+
+2 - G-Pencil: 
+A + F = G
+G + Pencil = G-Pencil
+
+3 - A-firmative: 
+A+f + F = AFF
+AFF + Homework = Affirmative
+A-f + Affirmative = A-firmative
+
+2 - Affleck: 
+A+f + F = AFF
+AFF + Alphabet = Affleck
+
+3 - A-f+a-f+a-f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + A-z = A-f+a-f
+A-f + A-f+a-f = A-f+a-f+a-f
+
+2 - Baobab: 
+A+f + Earth = Africa
+Africa + Tree = Baobab
+
+3 - Venus: 
+Ash + Ash = Stone
+A-f + Stone = Statue
+A-f + Statue = Venus
+
+2 - Tablet: 
+Ash + Ash = Stone
+Book + Stone = Tablet
+
+2 - Wizard: 
+A+f + Water = Afro
+Afro + Book = Wizard
+ ...
+Homework + Wind = Flying
+Book + Flying = Wizard
+
+3 - Archeology: 
+A-z + Earth = Dirt
+Book + Dirt = Archaeology
+A-f + Archaeology = Archeology
+
+3 - H-pencil: 
+A + F = G
+G + Pencil = G-Pencil
+A-f + G-Pencil = H-pencil
+
+2 - G-Coffee: 
+A + F = G
+Coffee + G = G-Coffee
+
+2 - A+f+a+f: 
+A+f + A+f = A+f+A+f
+A+f+A+f + Homework = A+f+a+f
+
+2 - A+f+a+f+A-tornado: 
+A+f + A+f = A+f+A+f
+A+f+A+f + A-tornado = A+f+a+f+A-tornado
+
+3 - Batman: 
+A+f + F = AFF
+AFF + Alphabet = Affleck
+A-f + Affleck = Batman
+
+3 - Pill: 
+Ash + Ash = Stone
+Book + Stone = Tablet
+A-f + Tablet = Pill
+
+2 - Stonehenge: 
+Ash + Ash = Stone
+A-tornado + Stone = Stonehenge
+
+3 - A-f-Baobab: 
+A+f + Earth = Africa
+Africa + Tree = Baobab
+A-f + Baobab = A-f-Baobab
+
+2 - Cactus: 
+A+f + Earth = Africa
+Africa + Plant = Cactus
+ ...
+A-tornado + Pencil = Eraser
+Eraser + Plant = Cactus
+
+3 - H-coffee: 
+A + F = G
+Coffee + G = G-Coffee
+A-f + G-Coffee = H-coffee
+
+2 - Gtornado: 
+A + F = G
+G + Tornado = Gtornado
+
+3 - Prickle: 
+A+f + Earth = Africa
+Africa + Plant = Cactus
+A-f + Cactus = Prickle
+ ...
+A-tornado + Pencil = Eraser
+Eraser + Plant = Cactus
+A-f + Cactus = Prickle
+
+2 - Ethiopia: 
+A+f + Earth = Africa
+Africa + Coffee = Ethiopia
+
+3 - Reggae: 
+A+f + Water = Afro
+Afro + Tree = Bob Marley
+A-f + Bob Marley = Reggae
+
+2 - Bob: 
+A+f + Water = Afro
+Afro + Plant = Bob
+
+2 - Soup: 
+A-f + Ash = Ashes
+Ashes + Water = Soup
+ ...
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Water = Soup
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Water = Soup
+
+2 - Gone: 
+A + F = G
+G + Homework = Gone
+
+2 - Leak: 
+Book + Earth = Library
+Library + Water = Leak
+
+2 - Sahara: 
+A+f + Earth = Africa
+A-tornado + Africa = Sahara
+
+3 - Bobaf: 
+A+f + Water = Afro
+Afro + Plant = Bob
+A-f + Bob = Bobaf
+
+2 - Samurai: 
+A+f + Water = Afro
+Afro + Tornado = Samurai
+
+2 - Fashes: 
+A-f + Ash = Ashes
+Ashes + F = Fashes
+
+3 - Forgone: 
+A + F = G
+G + Homework = Gone
+A-f + Gone = Forgone
+
+3 - Faucet: 
+Book + Earth = Library
+Library + Water = Leak
+A-f + Leak = Faucet
+
+2 - Paper Airplane: 
+Book + Earth = Library
+Library + Wind = Paper Airplane
+ ...
+A-z + Book = Bible
+Bible + Wind = Paper Airplane
+ ...
+A-z + Wind = A-wind
+A-wind + Homework = Paper Airplane
+ ...
+A + Paper = A4
+A4 + Tornado = Paper Airplane
+ ...
+Paper + Wind = Kite
+Book + Kite = Paper Airplane
+ ...
+A-f + F = A-ff
+A-ff + Paper = Paper Airplane
+
+2 - Fafnir: 
+A-f + Ash = Ashes
+A+f + Ashes = Fafnir
+
+3 - A-samurai: 
+A+f + Water = Afro
+Afro + Tornado = Samurai
+A-f + Samurai = A-samurai
+
+2 - Hip Hop: 
+A+f + Water = Afro
+Afro + Alphabet = Hip Hop
+
+2 - Fbomb: 
+Book + F = Fbook
+Fbook + Fire = Fbomb
+
+2 - Knowledge: 
+Book + Earth = Library
+Book + Library = Knowledge
+
+2 - Pyro: 
+A+ + Book = Nerd
+Fire + Nerd = Pyro
+
+2 - Dragon: 
+Plant + Water = Swamp
+Fire + Swamp = Dragon
+
+3 - Fafbomb: 
+Book + F = Fbook
+Fbook + Fire = Fbomb
+A-f + Fbomb = Fafbomb
+
+3 - Rap: 
+A+f + Water = Afro
+Afro + Alphabet = Hip Hop
+A-f + Hip Hop = Rap
+
+3 - Wisdom: 
+Book + Earth = Library
+Book + Library = Knowledge
+A-f + Knowledge = Wisdom
+
+2 - Church: 
+A-z + Book = Bible
+Bible + Bible = Church
+
+2 - Fish: 
+A+ + Book = Nerd
+Nerd + Water = Fish
+
+2 - Fiction: 
+Book + Book = Bookshelf
+Bookshelf + F = Fiction
+
+2 - A to Z Fruit: 
+A+ + A-z = A+z
+A+z + F = A to Z Fruit
+
+3 - Fakebook: 
+Book + F = Fbook
+A-f + Fbook = Facebook
+A-f + Facebook = Fakebook
+ ...
+A-f + Water = A-f-f
+A-f-f + Book = Facebook
+A-f + Facebook = Fakebook
+
+2 - Farmville: 
+Book + F = Fbook
+Earth + Fbook = Farmville
+
+2 - Delta: 
+Tree + Water = River
+Earth + River = Delta
+
+2 - Atheist: 
+A-z + Book = Bible
+A+f + Bible = Atheist
+
+2 - Hell: 
+A-z + Book = Bible
+Bible + Fire = Hell
+
+2 - 26: 
+A+ + A-z = A+z
+A + A+z = 26
+
+3 - Shark: 
+A+ + Book = Nerd
+Nerd + Water = Fish
+A-f + Fish = Shark
+
+2 - Gamer: 
+A+ + Book = Nerd
+Earth + Nerd = Gamer
+
+2 - Science: 
+Book + Coffee = Study
+Earth + Study = Science
+
+2 - Bookworm: 
+Book + Book = Bookshelf
+A-tornado + Bookshelf = Bookworm
+
+2 - Friend: 
+Book + F = Fbook
+F + Fbook = Friend
+
+3 - Phi: 
+Tree + Water = River
+Earth + River = Delta
+A-f + Delta = Phi
+
+3 - Fallen: 
+A-z + Book = Bible
+Bible + Fire = Hell
+A-f + Hell = Fallen
+
+2 - Baptism: 
+A-z + Book = Bible
+Bible + Water = Baptism
+
+3 - Z: 
+A+ + A-z = A+z
+A + A+z = 26
+26 + A-f = Z
+
+2 - A+z+: 
+A+ + A-z = A+z
+A+ + A+z = A+z+
+
+2 - Anerd: 
+A+ + Book = Nerd
+A + Nerd = Anerd
+
+2 - Rainbow: 
+Ash + Pencil = Crayon
+Crayon + Wind = Rainbow
+
+2 - Fjord: 
+Tree + Water = River
+F + River = Fjord
+
+3 - Fiend: 
+Book + F = Fbook
+F + Fbook = Friend
+A-f + Friend = Fiend
+
+2 - Like: 
+Book + F = Fbook
+A+ + Fbook = Like
+
+2 - Jungle: 
+Earth + Tree = Forest
+Forest + Forest = Jungle
+
+2 - A+f+z: 
+A+ + A-z = A+z
+A+f + A+z = A+f+z
+
+3 - A-f-baptism: 
+A-z + Book = Bible
+Bible + Water = Baptism
+A-f + Baptism = A-f-baptism
+
+2 - Fable: 
+A-z + Book = Bible
+Bible + F = Fable
+
+3 - Norway: 
+Tree + Water = River
+F + River = Fjord
+A-f + Fjord = Norway
+
+2 - Amazon: 
+Tree + Water = River
+A+ + River = Amazon
+
+3 - Alike: 
+Book + F = Fbook
+A+ + Fbook = Like
+A-f + Like = Alike
+
+2 - Coffee Book: 
+Book + F = Fbook
+Coffee + Fbook = Coffee Book
+
+3 - Tarzan: 
+Earth + Tree = Forest
+Forest + Forest = Jungle
+A-f + Jungle = Tarzan
+
+3 - Fabulous: 
+A-z + Book = Bible
+Bible + F = Fable
+A-f + Fable = Fabulous
+
+2 - 0: 
+A+ + A-z = A+z
+A+z + A-z = 0
+ ...
+A-z + F = F-z
+A + F-z = 0
+
+3 - Hack: 
+A+ + Book = Nerd
+A-f + Nerd = Hacker
+A-f + Hacker = Hack
+ ...
+A+ + Coffee = Programmer
+A-f + Programmer = Hacker
+A-f + Hacker = Hack
+ ...
+A+ + Coffee = Programmer
+Book + Programmer = Code
+A-f + Code = Hack
+
+2 - A+f+Nerd: 
+A+ + Book = Nerd
+A+f + Nerd = A+f+Nerd
+
+2 - Foliage: 
+Tree + Wind = Leaf
+F + Leaf = Foliage
+
+3 - A-mazon: 
+Tree + Water = River
+A+ + River = Amazon
+A-f + Amazon = A-mazon
+
+3 - Coffee Table: 
+Book + F = Fbook
+Coffee + Fbook = Coffee Book
+A-f + Coffee Book = Coffee Table
+
+2 - Fail: 
+Book + F = Fbook
+Fbook + Homework = Fail
+
+3 - Cain: 
+A-z + Book = Bible
+A-f + Bible = Abel
+A-f + Abel = Cain
+
+2 - Zap: 
+A+ + A-z = A+z
+A+z + Pencil = Zap
+
+2 - Geek: 
+A+ + Book = Nerd
+Ash + Nerd = Geek
+
+2 - Paper Boat: 
+Tree + Water = River
+Paper + River = Paper Boat
+ ...
+Paper + Water = Boat
+Boat + Homework = Paper Boat
+
+3 - A-fail: 
+Book + F = Fbook
+Fbook + Homework = Fail
+A-f + Fail = A-fail
+
+2 - School: 
+A-z + Book = Bible
+Bible + Homework = School
+
+3 - Frankenstein: 
+A+ + A-z = A+z
+A+z + Pencil = Zap
+A-f + Zap = Frankenstein
+ ...
+Coffee + Wind = Storm
+Storm + Tree = Lightning
+A-f + Lightning = Frankenstein
+ ...
+Book + Coffee = Study
+Earth + Study = Science
+A-f + Science = Frankenstein
+
+2 - Java: 
+A+ + A-z = A+z
+A+z + Coffee = Java
+ ...
+A-tornado + A-z = A-to-z
+A-to-z + Coffee = Java
+
+2 - Glasses: 
+A+ + Book = Nerd
+Book + Nerd = Glasses
+
+2 - Fruit Tree: 
+F + Tree = Fruit
+Fruit + Fruit = Fruit Tree
+
+3 - Paper Plane: 
+Tree + Water = River
+Paper + River = Paper Boat
+A-f + Paper Boat = Paper Plane
+ ...
+Paper + Water = Boat
+Boat + Homework = Paper Boat
+A-f + Paper Boat = Paper Plane
+
+2 - Flood: 
+Tree + Water = River
+River + Tornado = Flood
+ ...
+Coffee + Wind = Storm
+Homework + Storm = Flood
+
+3 - Maple Syrup: 
+Tree + Wind = Leaf
+A-f + Leaf = Maple
+A-f + Maple = Maple Syrup
+ ...
+F + Tornado = Funnel
+Funnel + Tree = Maple
+A-f + Maple = Maple Syrup
+
+2 - Tumbleweed: 
+Tree + Wind = Leaf
+Leaf + Tornado = Tumbleweed
+
+2 - Aztornado: 
+A+ + A-z = A+z
+A+z + Tornado = Aztornado
+
+2 - Class: 
+Book + Homework = Student
+Student + Student = Class
+
+2 - Abc: 
+A-z + Book = Bible
+Alphabet + Bible = Abc
+
+2 - Venus Flytrap: 
+A+ + Book = Nerd
+Nerd + Plant = Venus Flytrap
+ ...
+Plant + Water = Swamp
+Plant + Swamp = Venus Flytrap
+
+2 - Fireplace: 
+A-z + Wind = A-wind
+A-wind + Fire = Fireplace
+
+2 - Juice: 
+F + Tree = Fruit
+Fruit + Water = Juice
+
+3 - Ark: 
+Tree + Water = River
+River + Tornado = Flood
+A-f + Flood = Ark
+ ...
+Coffee + Wind = Storm
+Homework + Storm = Flood
+A-f + Flood = Ark
+
+2 - Waterfall: 
+Tree + Water = River
+A-tornado + River = Waterfall
+
+2 - Alphabet S: 
+A+ + A-z = A+z
+A+z + Alphabet = Alphabet S
+
+3 - Abcdef: 
+A-z + Book = Bible
+Alphabet + Bible = Abc
+A-f + Abc = Abcdef
+
+2 - A+f-wind: 
+A-z + Wind = A-wind
+A+f + A-wind = A+f-wind
+
+3 - A-f-trap: 
+A+ + Book = Nerd
+Nerd + Plant = Venus Flytrap
+A-f + Venus Flytrap = A-f-trap
+ ...
+Plant + Water = Swamp
+Plant + Swamp = Venus Flytrap
+A-f + Venus Flytrap = A-f-trap
+
+2 - Nerdnado: 
+A+ + Book = Nerd
+Nerd + Tornado = Nerdnado
+
+2 - Cider: 
+A + Tree = Apple
+Apple + Fire = Cider
+ ...
+A+f + Tree = Apple Tree
+Apple Tree + Fire = Cider
+
+3 - A-fruit: 
+F + Tree = Fruit
+Fruit + Water = Juice
+A-f + Juice = A-fruit
+
+2 - Fruit Fly: 
+F + Tree = Fruit
+Fruit + Wind = Fruit Fly
+
+3 - Niagara Falls: 
+Tree + Water = River
+A-tornado + River = Waterfall
+A-f + Waterfall = Niagara Falls
+
+2 - A-bend: 
+A-z + Wind = A-wind
+A-wind + A-z = A-bend
+
+2 - Bog: 
+Plant + Water = Swamp
+Swamp + Swamp = Bog
+
+2 - Apple Pie: 
+A + Tree = Apple
+Apple + Wind = Apple Pie
+ ...
+A+f + Tree = Apple Tree
+Apple Tree + Tornado = Apple Pie
+
+2 - Dandelion Patch: 
+Plant + Wind = Dandelion
+Dandelion + Dandelion = Dandelion Patch
+
+2 - Apple Orchard: 
+A+f + Tree = Apple Tree
+Apple Tree + Apple Tree = Apple Orchard
+
+2 - Fruit Salad: 
+F + Tree = Fruit
+F + Fruit = Fruit Salad
+
+2 - Cigar: 
+Ash + Plant = Tobacco
+Tobacco + Tree = Cigar
+
+3 - A-frame: 
+A-z + Wind = A-wind
+A-wind + A-z = A-bend
+A-bend + A-f = A-frame
+
+3 - American Pie: 
+A + Tree = Apple
+Apple + Wind = Apple Pie
+A-f + Apple Pie = American Pie
+ ...
+A+f + Tree = Apple Tree
+Apple Tree + Tornado = Apple Pie
+A-f + Apple Pie = American Pie
+
+2 - Newton: 
+A+f + Tree = Apple Tree
+A+ + Apple Tree = Newton
+ ...
+A + Tree = Apple
+Apple + Book = Newton
+
+2 - Wrapper: 
+F + Tree = Fruit
+Fruit + Paper = Wrapper
+
+3 - Fidel Castro: 
+Ash + Plant = Tobacco
+Tobacco + Tree = Cigar
+A-f + Cigar = Fidel Castro
+
+2 - Coffin: 
+Ash + Plant = Tobacco
+Coffee + Tobacco = Coffin
+
+2 - Professor: 
+Book + Homework = Student
+A+f + Student = Professor
+
+2 - A+ple: 
+A + Tree = Apple
+A+ + Apple = A+ple
+
+3 - Dragonfly: 
+Plant + Water = Swamp
+Fire + Swamp = Dragon
+A-f + Dragon = Dragonfly
+
+2 - Marsh: 
+Plant + Water = Swamp
+Swamp + Water = Marsh
+
+3 - Gravity: 
+A+f + Tree = Apple Tree
+A+ + Apple Tree = Newton
+A-f + Newton = Gravity
+ ...
+A + Tree = Apple
+Apple + Book = Newton
+A-f + Newton = Gravity
+
+2 - Coffee Tree: 
+A+f + Tree = Apple Tree
+Apple Tree + Coffee = Coffee Tree
+
+2 - Weed: 
+Plant + Wind = Dandelion
+A+ + Dandelion = Weed
+ ...
+A+f + Paper = Fap
+Fap + Plant = Weed
+ ...
+Coffee + F = Fuck
+Fuck + Plant = Weed
+
+3 - A-f-wind-f-wind: 
+A-z + Wind = A-wind
+A-f + A-wind = A-f-wind
+A-f + A-f-wind = A-f-wind-f-wind
+
+2 - A-twister: 
+A-z + Wind = A-wind
+A-tornado + A-wind = A-twister
+
+3 - Fawaffle: 
+F + Tree = Fruit
+Fruit + Paper = Wrapper
+A-f + Wrapper = Fawaffle
+
+2 - Apple-tornado: 
+A + Tree = Apple
+A-tornado + Apple = Apple-tornado
+
+3 - Vampire: 
+Ash + Plant = Tobacco
+Coffee + Tobacco = Coffin
+A-f + Coffin = Vampire
+
+2 - Mist: 
+Plant + Water = Swamp
+Swamp + Wind = Mist
+
+2 - Fizz: 
+A-z + F = F-z
+F-z + Water = Fizz
+
+3 - Joint: 
+Plant + Wind = Dandelion
+A+ + Dandelion = Weed
+A-f + Weed = Joint
+ ...
+A+f + Paper = Fap
+Fap + Plant = Weed
+A-f + Weed = Joint
+ ...
+Coffee + F = Fuck
+Fuck + Plant = Weed
+A-f + Weed = Joint
+
+2 - Wish: 
+Plant + Wind = Dandelion
+Ash + Dandelion = Wish
+
+2 - Ship: 
+Paper + Water = Boat
+Boat + Boat = Ship
+
+2 - Treasure Map: 
+Earth + Paper = Map
+Map + Map = Treasure Map
+
+2 - 1: 
+A-z + F = F-z
+A+f + F-z = 1
+
+2 - Mosquito: 
+Plant + Water = Swamp
+A+ + Swamp = Mosquito
+
+2 - Fireworks: 
+Paper + Wind = Kite
+Fire + Kite = Fireworks
+ ...
+Earth + Pencil = Drawing
+Drawing + Fire = Fireworks
+ ...
+Paper + Tornado = Confetti
+Confetti + Fire = Fireworks
+
+3 - Genie: 
+Plant + Wind = Dandelion
+Ash + Dandelion = Wish
+A-f + Wish = Genie
+
+2 - Pirate: 
+Paper + Water = Boat
+A+ + Boat = Pirate
+
+2 - Island: 
+Paper + Water = Boat
+Boat + Earth = Island
+ ...
+Tornado + Water = Tsunami
+Earth + Tsunami = Island
+
+2 - Hill: 
+A+ + Paper = Grade
+Grade + Grade = Hill
+
+2 - F-book: 
+A-z + F = F-z
+Book + F-z = F-book
+
+2 - Ace: 
+Paper + Wind = Kite
+A + Kite = Ace
+
+3 - Malaria: 
+Plant + Water = Swamp
+A+ + Swamp = Mosquito
+A-f + Mosquito = Malaria
+
+2 - Mummy: 
+Plant + Water = Swamp
+Book + Swamp = Mummy
+
+3 - A6: 
+A + Paper = A4
+A-f + A4 = A5
+A-f + A5 = A6
+
+2 - A4Wind: 
+A + Paper = A4
+A4 + Wind = A4Wind
+
+3 - Atlantis: 
+Paper + Water = Boat
+Boat + Earth = Island
+A-f + Island = Atlantis
+ ...
+Tornado + Water = Tsunami
+Earth + Tsunami = Island
+A-f + Island = Atlantis
+
+2 - Sail: 
+Paper + Water = Boat
+Boat + Wind = Sail
+
+2 - Compass: 
+Earth + Paper = Map
+Map + Wind = Compass
+ ...
+F + Tornado = Funnel
+Funnel + Pencil = Compass
+
+2 - Report Card: 
+A+ + Paper = Grade
+A-z + Grade = Report Card
+
+2 - F-pencil: 
+A-z + F = F-z
+F-z + Pencil = F-pencil
+
+2 - Mangrove: 
+Plant + Water = Swamp
+Swamp + Tree = Mangrove
+
+2 - A+Kite: 
+Paper + Wind = Kite
+A+ + Kite = A+Kite
+
+3 - Sailor: 
+Paper + Water = Boat
+Boat + Wind = Sail
+A-f + Sail = Sailor
+
+2 - F-Boat: 
+Paper + Water = Boat
+Boat + F = F-Boat
+
+3 - A4wind: 
+A + Paper = A4
+A4 + Wind = A4Wind
+A-f + A4Wind = A4wind
+
+2 - F4: 
+A + Paper = A4
+A4 + F = F4
+
+3 - North: 
+Earth + Paper = Map
+Map + Wind = Compass
+A-f + Compass = North
+ ...
+F + Tornado = Funnel
+Funnel + Pencil = Compass
+A-f + Compass = North
+
+2 - Atlas: 
+Earth + Paper = Map
+A + Map = Atlas
+
+3 - Straight A’s: 
+A+ + Paper = Grade
+A-z + Grade = Report Card
+A-f + Report Card = Straight A’s
+
+2 - F-tornado: 
+A-z + F = F-z
+A-tornado + F-z = F-tornado
+ ...
+A+f + A-tornado = A-f-tornado
+A-f-tornado + F = F-tornado
+
+2 - F5: 
+A-z + Tornado = Hurricane
+F + Hurricane = F5
+ ...
+A+f + Homework = A+f+homework
+A+f+homework + Tornado = F5
+
+2 - Exam: 
+A + Paper = A4
+A4 + Pencil = Exam
+ ...
+A+ + Paper = Grade
+Grade + Homework = Exam
+ ...
+Book + Coffee = Study
+Fire + Study = Exam
+ ...
+A-f + Coffee = Caffeine
+Caffeine + Pencil = Exam
+ ...
+Book + Homework = Student
+Coffee + Student = Exam
+
+2 - A-F-K: 
+Paper + Wind = Kite
+A+f + Kite = A-F-K
+
+2 - A-ff-ter: 
+A-f + F = A-ff
+A-ff + Water = A-ff-ter
+
+2 - Wet: 
+A+f + Paper = Fap
+Fap + Water = Wet
+ ...
+Coffee + F = Fuck
+Fuck + Water = Wet
+
+3 - A-f-boat: 
+Paper + Water = Boat
+Boat + F = F-Boat
+A-f + F-Boat = A-f-boat
+
+2 - Canoe: 
+Paper + Water = Boat
+A + Boat = Canoe
+
+3 - Afmangrove: 
+Plant + Water = Swamp
+Swamp + Tree = Mangrove
+A-f + Mangrove = Afmangrove
+
+3 - A-tlas: 
+Earth + Paper = Map
+A + Map = Atlas
+A-f + Atlas = A-tlas
+
+3 - Grade A+: 
+A+ + Paper = Grade
+A-f + Grade = Grade A
+A-f + Grade A = Grade A+
+
+2 - Flying Homework: 
+Paper + Wind = Kite
+Homework + Kite = Flying Homework
+
+3 - Afwet: 
+A+f + Paper = Fap
+Fap + Water = Wet
+A-f + Wet = Afwet
+ ...
+Coffee + F = Fuck
+Fuck + Water = Wet
+A-f + Wet = Afwet
+
+2 - After: 
+A-tornado + Pencil = Eraser
+A+f + Eraser = After
+
+2 - A-ff-f: 
+A-f + F = A-ff
+A-ff + F = A-ff-f
+
+3 - Crocodile: 
+Plant + Water = Swamp
+Homework + Swamp = Alligator
+A-f + Alligator = Crocodile
+
+2 - Fountain Pen: 
+A+ + Pencil = Pencil2
+F + Pencil2 = Fountain Pen
+
+2 - Sky: 
+Paper + Wind = Kite
+Alphabet + Kite = Sky
+
+2 - Color: 
+Ash + Pencil = Crayon
+Crayon + Water = Color
+
+2 - A+Fap: 
+A+f + Paper = Fap
+A+ + Fap = A+Fap
+
+2 - All-Nighter: 
+Coffee + Earth = Coffee Bean
+Coffee Bean + Homework = All-Nighter
+ ...
+A-f + Coffee = Caffeine
+Caffeine + Homework = All-Nighter
+ ...
+Alphabet + Coffee = Cappuccino
+Cappuccino + Homework = All-Nighter
+
+3 - A-ff-f-f: 
+A-f + F = A-ff
+A-ff + F = A-ff-f
+A-f + A-ff-f = A-ff-f-f
+
+2 - Thunder: 
+Coffee + Wind = Storm
+A+ + Storm = Thunder
+
+3 - A-f-f-f-f-f-f-f-f-f-: 
+A-f + Water = A-f-f
+A-f + A-f-f = A-f-f-f
+A-f + A-f-f-f = A-f-f-f-f-f-f-f-f-f-
+ ...
+A-f + Water = A-f-f
+A-f-f + Ash = F-f-f-f-f-f-f-f-f-f-
+A-f + F-f-f-f-f-f-f-f-f-f- = A-f-f-f-f-f-f-f-f-f-
+
+2 - Affire: 
+A-f + Water = A-f-f
+A-f-f + Fire = Affire
+
+3 - A-f-r-a-i-d: 
+Paper + Water = Boat
+A+ + Boat = Pirate
+A-f + Pirate = A-f-r-a-i-d
+
+2 - A-boat: 
+Paper + Water = Boat
+A-z + Boat = A-boat
+
+2 - Cave: 
+Earth + Pencil = Drawing
+Drawing + Earth = Cave
+
+2 - Fapfapfap: 
+A+f + Paper = Fap
+A+f + Fap = Fapfapfap
+
+2 - Coffee2: 
+A+ + Pencil = Pencil2
+Coffee + Pencil2 = Coffee2
+
+2 - A-ff-homework: 
+A-f + F = A-ff
+A-ff + Homework = A-ff-homework
+
+3 - F-: 
+Coffee + Earth = Coffee Bean
+Coffee Bean + Homework = All-Nighter
+A-f + All-Nighter = F-
+ ...
+A-f + Coffee = Caffeine
+Caffeine + Homework = All-Nighter
+A-f + All-Nighter = F-
+ ...
+Alphabet + Coffee = Cappuccino
+Cappuccino + Homework = All-Nighter
+A-f + All-Nighter = F-
+
+3 - Bat: 
+Earth + Pencil = Drawing
+Drawing + Earth = Cave
+A-f + Cave = Bat
+
+3 - A-boat-a-f: 
+Paper + Water = Boat
+A-z + Boat = A-boat
+A-boat + A-f = A-boat-a-f
+
+3 - Afire: 
+A-f + Water = A-f-f
+A-f-f + Fire = Affire
+A-f + Affire = Afire
+
+2 - Affluent: 
+A-f + Water = A-f-f
+A-f-f + Water = Affluent
+
+2 - Firefuck: 
+Coffee + F = Fuck
+Fire + Fuck = Firefuck
+
+2 - Fapbook: 
+A+f + Paper = Fap
+Book + Fap = Fapbook
+
+2 - Alphabet2: 
+A+ + Pencil = Pencil2
+Alphabet + Pencil2 = Alphabet2
+
+3 - Unicorn: 
+Ash + Pencil = Crayon
+Crayon + Wind = Rainbow
+A-f + Rainbow = Unicorn
+
+2 - Frayon: 
+Ash + Pencil = Crayon
+Crayon + F = Frayon
+
+2 - Umbrella: 
+Coffee + Wind = Storm
+Paper + Storm = Umbrella
+
+3 - A-f-homework: 
+A-f + F = A-ff
+A-ff + Homework = A-ff-homework
+A-f + A-ff-homework = A-f-homework
+
+2 - Comic: 
+Earth + Pencil = Drawing
+Book + Drawing = Comic
+
+2 - Raft: 
+Paper + Water = Boat
+Boat + Plant = Raft
+
+2 - A+Fuck: 
+Coffee + F = Fuck
+A+ + Fuck = A+Fuck
+
+2 - Farm: 
+A+ + Coffee = Programmer
+Earth + Programmer = Farm
+
+2 - A-f-f-a: 
+A-f + Water = A-f-f
+A + A-f-f = A-f-f-a
+
+2 - Manga: 
+A+f + Paper = Fap
+Fap + Pencil = Manga
+
+2 - Graffiti: 
+Ash + Pencil = Crayon
+A-z + Crayon = Graffiti
+
+3 - Parasol: 
+Coffee + Wind = Storm
+Paper + Storm = Umbrella
+A-f + Umbrella = Parasol
+
+3 - Comic Sans: 
+Earth + Pencil = Drawing
+Book + Drawing = Comic
+A-f + Comic = Comic Sans
+
+2 - Sketch: 
+Earth + Pencil = Drawing
+Coffee + Drawing = Sketch
+
+2 - Toilet Paper: 
+Coffee + F = Fuck
+Fuck + Paper = Toilet Paper
+
+2 - Buzz: 
+A-f + Coffee = Caffeine
+A + Caffeine = Buzz
+
+2 - Postcard: 
+Paper + Water = Boat
+Boat + Paper = Postcard
+
+3 - Barn: 
+A+ + Coffee = Programmer
+Earth + Programmer = Farm
+A-f + Farm = Barn
+
+2 - Code: 
+A+ + Coffee = Programmer
+Book + Programmer = Code
+
+2 - Research: 
+Book + Coffee = Study
+Study + Water = Research
+
+3 - Anime: 
+A+f + Paper = Fap
+Fap + Pencil = Manga
+A-f + Manga = Anime
+
+2 - Fapuccino: 
+A+f + Paper = Fap
+Coffee + Fap = Fapuccino
+
+2 - Fukushima: 
+Tornado + Water = Tsunami
+F + Tsunami = Fukushima
+
+3 - A-f-f-a-r: 
+A-f + Water = A-f-f
+A + A-f-f = A-f-f-a
+A-f + A-f-f-a = A-f-f-a-r
+
+2 - A+f-f: 
+A-f + Water = A-f-f
+A+ + A-f-f = A+f-f
+
+3 - A-hole: 
+Coffee + F = Fuck
+Fuck + Paper = Toilet Paper
+A-f + Toilet Paper = A-hole
+
+2 - Penis: 
+Coffee + F = Fuck
+Fuck + Pencil = Penis
+
+2 - AFC: 
+A-f + Coffee = Caffeine
+A+f + Caffeine = AFC
+
+3 - Postage: 
+Paper + Water = Boat
+Boat + Paper = Postcard
+A-f + Postcard = Postage
+
+2 - Coffee Shop: 
+Paper + Water = Boat
+Boat + Coffee = Coffee Shop
+
+2 - Tornadon: 
+A+f + Paper = Fap
+Fap + Tornado = Tornadon
+
+2 - Wake Up: 
+Tornado + Water = Tsunami
+Coffee + Tsunami = Wake Up
+
+2 - F-f-f-f-f-f-f-f-f-f-: 
+A-f + Water = A-f-f
+A-f-f + Ash = F-f-f-f-f-f-f-f-f-f-
+
+2 - Colored Pencil: 
+Ash + Pencil = Crayon
+Crayon + Pencil = Colored Pencil
+
+2 - Crayonado: 
+Ash + Pencil = Crayon
+Crayon + Tornado = Crayonado
+
+2 - Fuckoffee: 
+Coffee + F = Fuck
+Coffee + Fuck = Fuckoffee
+
+2 - Hourglass: 
+F + Tornado = Funnel
+Funnel + Funnel = Hourglass
+
+2 - Shipwreck: 
+Paper + Water = Boat
+A-tornado + Boat = Shipwreck
+
+3 - Afc: 
+A-f + Coffee = Caffeine
+A+f + Caffeine = AFC
+A-f + AFC = Afc
+
+2 - Fapalphabet: 
+A+f + Paper = Fap
+Alphabet + Fap = Fapalphabet
+
+2 - A+tornado: 
+A+ + Tornado = A+Tornado
+A+ + A+Tornado = A+tornado
+
+2 - A+f+tornado: 
+A+ + Tornado = A+Tornado
+A+f + A+Tornado = A+f+tornado
+
+2 - PhD: 
+Book + Coffee = Study
+F + Study = PhD
+
+3 - Alarm: 
+Tornado + Water = Tsunami
+Coffee + Tsunami = Wake Up
+A-f + Wake Up = Alarm
+
+2 - Destruction: 
+Tornado + Water = Tsunami
+Tornado + Tsunami = Destruction
+
+2 - A-z-a-f: 
+A-f + Water = A-f-f
+A-f-f + A-z = A-z-a-f
+
+2 - Drain: 
+F + Tornado = Funnel
+Funnel + Water = Drain
+
+2 - Fucktornado: 
+Coffee + F = Fuck
+Fuck + Tornado = Fucktornado
+
+2 - Energy: 
+A-f + Coffee = Caffeine
+Caffeine + Coffee = Energy
+
+2 - Fap-nado: 
+A+f + Paper = Fap
+A-tornado + Fap = Fap-nado
+
+2 - Dorothy: 
+A+ + Tornado = A+Tornado
+A+Tornado + Book = Dorothy
+
+2 - B+: 
+Book + Coffee = Study
+A+ + Study = B+
+
+2 - No Homework: 
+Tornado + Water = Tsunami
+Homework + Tsunami = No Homework
+
+3 - Drainage: 
+F + Tornado = Funnel
+Funnel + Water = Drain
+A-f + Drain = Drainage
+
+2 - A+Funnel: 
+F + Tornado = Funnel
+A+ + Funnel = A+Funnel
+
+2 - Campfire: 
+Tornado + Tree = Wood
+Fire + Wood = Campfire
+
+3 - Fusion: 
+A-f + Coffee = Caffeine
+Caffeine + Coffee = Energy
+A-f + Energy = Fusion
+
+3 - A-b: 
+Book + Coffee = Study
+A+ + Study = B+
+A-f + B+ = A-b
+
+2 - Focus: 
+Book + Coffee = Study
+A+f + Study = Focus
+
+3 - A-fucktornado: 
+Coffee + F = Fuck
+Fuck + Tornado = Fucktornado
+A-f + Fucktornado = A-fucktornado
+
+2 - Fucking: 
+Coffee + F = Fuck
+Alphabet + Fuck = Fucking
+
+3 - Happy: 
+Tornado + Water = Tsunami
+Homework + Tsunami = No Homework
+A-f + No Homework = Happy
+
+2 - Tornami: 
+Tornado + Water = Tsunami
+A-tornado + Tsunami = Tornami
+
+2 - A+funnel: 
+F + Tornado = Funnel
+A+f + Funnel = A+funnel
+
+3 - Refresh: 
+A-z + Tornado = Hurricane
+F + Hurricane = F5
+A-f + F5 = Refresh
+ ...
+A+f + Homework = A+f+homework
+A+f+homework + Tornado = F5
+A-f + F5 = Refresh
+
+2 - A-Hurricane: 
+A-z + Tornado = Hurricane
+A + Hurricane = A-Hurricane
+
+3 - Fap-fap-fap-fap-fap-fap-fap: 
+A+f + Paper = Fap
+A-tornado + Fap = Fap-nado
+A-f + Fap-nado = Fap-fap-fap-fap-fap-fap-fap
+
+3 - S’more: 
+Tornado + Tree = Wood
+Fire + Wood = Campfire
+A-f + Campfire = S’more
+
+2 - Furniture: 
+Tornado + Tree = Wood
+F + Wood = Furniture
+
+2 - Sword: 
+Pencil + Tornado = Pencil Sharpener
+Fire + Pencil Sharpener = Sword
+
+3 - Scope: 
+Book + Coffee = Study
+A+f + Study = Focus
+A-f + Focus = Scope
+
+2 - History: 
+Book + Coffee = Study
+Ash + Study = History
+
+2 - Tornado Fucker: 
+Coffee + F = Fuck
+A-tornado + Fuck = Tornado Fucker
+
+3 - A-z-a-f-a-f: 
+A-f + Water = A-f-f
+A-f-f + A-z = A-z-a-f
+A-f + A-z-a-f = A-z-a-f-a-f
+
+2 - Afforestation: 
+A-f + Water = A-f-f
+A-f-f + Plant = Afforestation
+
+2 - Filter: 
+F + Tornado = Funnel
+Book + Funnel = Filter
+
+3 - A-f-tornami: 
+Tornado + Water = Tsunami
+A-tornado + Tsunami = Tornami
+A-f + Tornami = A-f-tornami
+
+3 - A-flood: 
+A-z + Tornado = Hurricane
+A + Hurricane = A-Hurricane
+A-f + A-Hurricane = A-flood
+
+2 - Fiesta: 
+Paper + Tornado = Confetti
+Confetti + F = Fiesta
+
+3 - Chair: 
+Tornado + Tree = Wood
+F + Wood = Furniture
+A-f + Furniture = Chair
+
+2 - Table: 
+Tornado + Tree = Wood
+A+ + Wood = Table
+
+3 - Knight: 
+Pencil + Tornado = Pencil Sharpener
+Fire + Pencil Sharpener = Sword
+A-f + Sword = Knight
+
+3 - Mystery: 
+Book + Coffee = Study
+Ash + Study = History
+A-f + History = Mystery
+
+2 - Botany: 
+Book + Coffee = Study
+Plant + Study = Botany
+
+2 - Amocha: 
+Coffee + Tornado = Mocha
+A + Mocha = Amocha
+
+2 - Affidavit: 
+A-f + Water = A-f-f
+A-f-f + Paper = Affidavit
+
+2 - Bird: 
+Homework + Wind = Flying
+Flying + Flying = Bird
+
+2 - Christmas: 
+Paper + Tornado = Confetti
+Confetti + Tree = Christmas
+
+2 - Palm: 
+A-z + Tornado = Hurricane
+Hurricane + Tree = Palm
+
+3 - Photosynthesis: 
+Book + Coffee = Study
+Plant + Study = Botany
+A-f + Botany = Photosynthesis
+
+2 - Grammar: 
+Book + Coffee = Study
+Alphabet + Study = Grammar
+
+3 - A-famocha: 
+Coffee + Tornado = Mocha
+A + Mocha = Amocha
+A-f + Amocha = A-famocha
+
+2 - A+Mocha: 
+Coffee + Tornado = Mocha
+A+ + Mocha = A+Mocha
+
+2 - A-f-f-tornado: 
+A-f + Water = A-f-f
+A-f-f + Tornado = A-f-f-tornado
+
+2 - Plane: 
+Homework + Wind = Flying
+Flying + Pencil = Plane
+
+2 - Palm Tree: 
+A-z + Tornado = Hurricane
+Hurricane + Plant = Palm Tree
+
+3 - Santa: 
+Paper + Tornado = Confetti
+Confetti + Tree = Christmas
+A-f + Christmas = Santa
+
+2 - Snow: 
+Paper + Tornado = Confetti
+Confetti + Paper = Snow
+
+3 - Fangram: 
+Book + Coffee = Study
+Alphabet + Study = Grammar
+A-f + Grammar = Fangram
+
+3 - A-class: 
+Book + Homework = Student
+Student + Student = Class
+A-f + Class = A-class
+
+2 - Arsonist: 
+Book + Homework = Student
+Fire + Student = Arsonist
+
+2 - Wooden-leg: 
+Tornado + Tree = Wood
+A-tornado + Wood = Wooden-leg
+
+2 - A+f+A+f+homework: 
+A+f + Homework = A+f+homework
+A+f + A+f+homework = A+f+A+f+homework
+
+3 - A-mocha-f: 
+Coffee + Tornado = Mocha
+A+ + Mocha = A+Mocha
+A+Mocha + A-f = A-mocha-f
+
+2 - Frappuccino: 
+Coffee + Tornado = Mocha
+Mocha + Tornado = Frappuccino
+
+3 - A-f-f-f-tornado: 
+A-f + Water = A-f-f
+A-f-f + Tornado = A-f-f-tornado
+A-f + A-f-f-tornado = A-f-f-f-tornado
+
+2 - A-f-f-homework: 
+A-f + Water = A-f-f
+A-f-f + Homework = A-f-f-homework
+
+2 - Coffee Cup: 
+Homework + Wind = Flying
+Coffee + Flying = Coffee Cup
+
+2 - A+f+Alphabet Soup: 
+Alphabet + Fire = Alphabet Soup
+A+f + Alphabet Soup = A+f+Alphabet Soup
+ ...
+A-f + Alphabet = Alphabet soup
+A+f + Alphabet soup = A+f+Alphabet Soup
+
+2 - Crumpled: 
+A+f + Homework = A+f+homework
+A+f+homework + Paper = Crumpled
+
+2 - Swimmer: 
+Book + Homework = Student
+Student + Water = Swimmer
+
+3 - A-frappuccino: 
+Coffee + Tornado = Mocha
+Mocha + Tornado = Frappuccino
+A-f + Frappuccino = A-frappuccino
+
+2 - A+Breeze: 
+Alphabet + Wind = Breeze
+A+ + Breeze = A+Breeze
+
+2 - Flying-tornado: 
+Homework + Wind = Flying
+A-tornado + Flying = Flying-tornado
+
+2 - Salad: 
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Plant = Salad
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Plant = Salad
+
+3 - A-f-f-homework-done: 
+A-f + Water = A-f-f
+A-f-f + Homework = A-f-f-homework
+A-f + A-f-f-homework = A-f-f-homework-done
+
+3 - Lifeguard: 
+Book + Homework = Student
+Student + Water = Swimmer
+A-f + Swimmer = Lifeguard
+
+2 - F-Student: 
+Book + Homework = Student
+F + Student = F-Student
+
+3 - Caesar: 
+Alphabet + Fire = Alphabet Soup
+Alphabet Soup + Plant = Salad
+A-f + Salad = Caesar
+ ...
+A-f + Alphabet = Alphabet soup
+Alphabet soup + Plant = Salad
+A-f + Salad = Caesar
+
+2 - Mail: 
+Alphabet + Pencil = Letter
+Letter + Water = Mail
+
+2 - Toast: 
+A + Alphabet = Aardvark
+Aardvark + Fire = Toast
+
+3 - A-student: 
+Book + Homework = Student
+F + Student = F-Student
+A-f + F-Student = A-student
+
+2 - Valedictorian: 
+Book + Homework = Student
+A+ + Student = Valedictorian
+
+3 - A-breeze: 
+Alphabet + Wind = Breeze
+A+ + Breeze = A+Breeze
+A+Breeze + A-f = A-breeze
+ ...
+Alphabet + Wind = Breeze
+A-z + Breeze = Abreeze
+A-f + Abreeze = A-breeze
+
+2 - Abreeze: 
+Alphabet + Wind = Breeze
+A-z + Breeze = Abreeze
+
+2 - Latte Art: 
+Alphabet + Coffee = Cappuccino
+Cappuccino + Tornado = Latte Art
+
+2 - Thesaurus: 
+A-z + Alphabet = Dictionary
+Dictionary + Dictionary = Thesaurus
+
+2 - Googleplex: 
+Alphabet + Homework = Google
+Google + Google = Googleplex
+
+3 - Spam: 
+Alphabet + Pencil = Letter
+Letter + Water = Mail
+A-f + Mail = Spam
+
+2 - Post: 
+Alphabet + Pencil = Letter
+Ash + Letter = Post
+
+3 - Toasted: 
+A + Alphabet = Aardvark
+Aardvark + Fire = Toast
+A-f + Toast = Toasted
+
+2 - Swimming: 
+A + Alphabet = Aardvark
+Aardvark + Water = Swimming
+
+2 - Fire Flower: 
+A-tornado + Fire = Fire Tornado
+Fire Tornado + Plant = Fire Flower
+
+2 - Cool: 
+Alphabet + Wind = Breeze
+Breeze + Coffee = Cool
+
+3 - Barista: 
+Alphabet + Coffee = Cappuccino
+Cappuccino + Tornado = Latte Art
+A-f + Latte Art = Barista
+
+2 - Geology: 
+A-z + Alphabet = Dictionary
+Dictionary + Earth = Geology
+
+3 - Postman: 
+Alphabet + Pencil = Letter
+Ash + Letter = Post
+A-f + Post = Postman
+
+3 - A-f-googleplex: 
+Alphabet + Homework = Google
+Google + Google = Googleplex
+A-f + Googleplex = A-f-googleplex
+
+2 - FireFox: 
+Alphabet + Homework = Google
+Fire + Google = FireFox
+
+2 - Sentence: 
+Alphabet + Alphabet = Word
+Word + Word = Sentence
+
+2 - Biology: 
+Book + Homework = Student
+Plant + Student = Biology
+
+3 - Swimming Pool: 
+A + Alphabet = Aardvark
+Aardvark + Water = Swimming
+A-f + Swimming = Swimming Pool
+
+2 - Ant: 
+A + Alphabet = Aardvark
+Aardvark + Earth = Ant
+
+2 - Coffee Tornado: 
+A-tornado + Fire = Fire Tornado
+Coffee + Fire Tornado = Coffee Tornado
+
+3 - A-f-c: 
+Alphabet + Wind = Breeze
+Breeze + Coffee = Cool
+A-f + Cool = A-f-c
+
+3 - Fault: 
+A-z + Alphabet = Dictionary
+Dictionary + Earth = Geology
+A-f + Geology = Fault
+
+3 - Paragraph: 
+Alphabet + Alphabet = Word
+Word + Word = Sentence
+A-f + Sentence = Paragraph
+
+2 - Liquid: 
+Alphabet + Alphabet = Word
+Water + Word = Liquid
+
+3 - Firefox: 
+Alphabet + Homework = Google
+Fire + Google = FireFox
+A-f + FireFox = Firefox
+
+2 - Search: 
+Alphabet + Homework = Google
+Google + Water = Search
+
+3 - Abiogenesis: 
+Book + Homework = Student
+Plant + Student = Biology
+A-f + Biology = Abiogenesis
+
+2 - Stress: 
+Book + Homework = Student
+Homework + Student = Stress
+
+3 - Aunt: 
+A + Alphabet = Aardvark
+Aardvark + Earth = Ant
+A-f + Ant = Aunt
+
+3 - Fearless: 
+A-tornado + Pencil = Eraser
+A-f + Eraser = Fear
+A-f + Fear = Fearless
+
+2 - R: 
+A-tornado + Pencil = Eraser
+A + Eraser = R
+
+2 - A+f+d: 
+A-z + Alphabet = Dictionary
+A+f + Dictionary = A+f+d
+
+3 - A-fraid: 
+Book + Homework = Student
+Homework + Student = Stress
+A-f + Stress = A-fraid
+
+2 - Spell: 
+Book + Homework = Student
+Alphabet + Student = Spell
+ ...
+Alphabet + Alphabet = Word
+A+ + Word = Spell
+
+2 - Gone With The Wind: 
+Alphabet + Homework = Google
+Google + Wind = Gone With The Wind
+
+3 - Milk: 
+Alphabet + Alphabet = Word
+Water + Word = Liquid
+A-f + Liquid = Milk
+
+2 - Whisper: 
+Alphabet + Alphabet = Word
+Wind + Word = Whisper
+
+2 - Error: 
+A-tornado + Pencil = Eraser
+A+ + Eraser = Error
+
+3 - A+d: 
+A-z + Alphabet = Dictionary
+A+f + Dictionary = A+f+d
+A+f+d + A-f = A+d
+
+2 - Writer: 
+A-z + Alphabet = Dictionary
+Dictionary + Pencil = Writer
+
+3 - Secret: 
+Alphabet + Alphabet = Word
+Wind + Word = Whisper
+A-f + Whisper = Secret
+
+2 - F-Word: 
+Alphabet + Alphabet = Word
+F + Word = F-Word
+
+3 - Author: 
+A-z + Alphabet = Dictionary
+Dictionary + Pencil = Writer
+A-f + Writer = Author
+
+2 - Chaos: 
+A-z + Alphabet = Dictionary
+Dictionary + Tornado = Chaos
+
+3 - Fatal: 
+A-tornado + Pencil = Eraser
+A+ + Eraser = Error
+A-f + Error = Fatal
+
+2 - Afford: 
+Alphabet + Alphabet = Word
+A+f + Word = Afford
+
+2 - Android: 
+Alphabet + Homework = Google
+A+ + Google = Android
+
+3 - Afternoon: 
+A-tornado + Pencil = Eraser
+A+f + Eraser = After
+A-f + After = Afternoon
+
+2 - Blank: 
+A-tornado + Pencil = Eraser
+Book + Eraser = Blank
+
+2 - Language: 
+A-z + Alphabet = Dictionary
+Alphabet + Dictionary = Language
+
+3 - Affordable: 
+Alphabet + Alphabet = Word
+A+f + Word = Afford
+A-f + Afford = Affordable
+
+2 - Work: 
+Alphabet + Alphabet = Word
+Homework + Word = Work
+
+3 - Cyborg: 
+Alphabet + Homework = Google
+A+ + Google = Android
+A-f + Android = Cyborg
+
+3 - A-f-blank: 
+A-tornado + Pencil = Eraser
+Book + Eraser = Blank
+A-f + Blank = A-f-blank
+
+2 - Cheat: 
+Alphabet + Homework = Google
+Google + Homework = Cheat
+
+3 - Worker: 
+Alphabet + Alphabet = Word
+Homework + Word = Work
+A-f + Work = Worker
+
+2 - Fire tornado: 
+A+f + A-tornado = A-f-tornado
+A-f-tornado + Fire = Fire tornado
+
+2 - Coffee-tornado: 
+A+f + A-tornado = A-f-tornado
+A-f-tornado + Coffee = Coffee-tornado
+
+2 - F-to-a: 
+A-tornado + A-z = A-to-z
+A-to-z + F = F-to-a
+
+3 - Translate: 
+A-tornado + A-z = A-to-z
+A-to-z + F = F-to-a
+A-f + F-to-a = Translate
+
+2 - Encyclopedia: 
+A-tornado + A-z = A-to-z
+A-to-z + Book = Encyclopedia
+
+
+
+{
+  "0": 2,
+  "1": 2,
+  "26": 2,
+  "Volcano": 1,
+  "Lava": 1,
+  "Steam": 1,
+  "Train": 2,
+  "Lake": 1,
+  "Fake": 2,
+  "Mountain": 1,
+  "Avalanche": 2,
+  "Smoke": 1,
+  "Fog": 2,
+  "Wave": 1,
+  "Surf": 2,
+  "Dust": 1,
+  "Adam": 1,
+  "Flare": 1,
+  "Fire": 2,
+  "Flower": 1,
+  "Aphrodite": 2,
+  "Fertile": 1,
+  "Baby": 2,
+  "Fan": 1,
+  "Fanfiction": 2,
+  "B": 1,
+  "C": 2,
+  "H2O": 1,
+  "A-f-h2o": 2,
+  "Planet": 1,
+  "Earth": 2,
+  "G": 1,
+  "H": 2,
+  "A++": 1,
+  "A+": 2,
+  "Lemonade": 1,
+  "Eve": 2,
+  "A+F": 1,
+  "A": 2,
+  "Afro": 1,
+  "Afro-american": 2,
+  "Africa": 1,
+  "AFF": 1,
+  "Affair": 2,
+  "A+f+": 1,
+  "A+f": 2,
+  "A+f+A+f": 1,
+  "A+f+a+f+A-f": 2,
+  "Phoenix": 1,
+  "Firebird": 2,
+  "Puddle": 1,
+  "Soil": 1,
+  "Fossil": 2,
+  "Fash": 1,
+  "Fashion": 2,
+  "Stone": 1,
+  "Statue": 2,
+  "Dirt": 1,
+  "Mud": 2,
+  "A-wind": 1,
+  "A-f-wind": 2,
+  "F-z": 1,
+  "A-z": 2,
+  "A+z": 1,
+  "A-f-f": 1,
+  "A-f-f-f": 2,
+  "A-ff": 1,
+  "A-ff-air": 2,
+  "Ashes": 1,
+  "Library": 1,
+  "Book": 2,
+  "Fbook": 1,
+  "Facebook": 2,
+  "Nerd": 1,
+  "Hacker": 2,
+  "Bible": 1,
+  "Abel": 2,
+  "Bookshelf": 1,
+  "River": 1,
+  "A-f-r-i-c-a": 2,
+  "Forest": 1,
+  "Leaf": 1,
+  "Maple": 2,
+  "Fruit": 1,
+  "Apple": 1,
+  "Apple Tree": 1,
+  "Swamp": 1,
+  "Frog": 2,
+  "Dandelion": 1,
+  "Seed": 2,
+  "Tobacco": 1,
+  "Cigarette": 2,
+  "Boat": 1,
+  "Afloat": 2,
+  "Map": 1,
+  "Treasure": 2,
+  "Kite": 1,
+  "Flying": 1,
+  "A4": 1,
+  "A5": 2,
+  "Grade": 1,
+  "Grade A": 2,
+  "Fap": 1,
+  "Fapfap": 2,
+  "Match": 1,
+  "Drawing": 1,
+  "Art": 2,
+  "Pencil2": 1,
+  "Pencil": 2,
+  "Crayon": 1,
+  "Fancy": 2,
+  "Coffee Bean": 1,
+  "Coffee": 2,
+  "Storm": 1,
+  "Tornado": 2,
+  "Fuck": 1,
+  "Programmer": 1,
+  "Caffeine": 1,
+  "A-f-caffeine": 2,
+  "Study": 1,
+  "Student": 1,
+  "Tsunami": 1,
+  "Funnel": 1,
+  "A-ffunnel": 2,
+  "A-Tornado": 1,
+  "A-f-tornado": 1,
+  "A+Tornado": 1,
+  "Hurricane": 1,
+  "A-f-hurricane": 2,
+  "Wood": 1,
+  "Firewood": 2,
+  "Confetti": 1,
+  "Party": 2,
+  "Pencil Sharpener": 1,
+  "Mocha": 1,
+  "A+f+homework": 1,
+  "Teacher": 2,
+  "Alphabet Soup": 1,
+  "Breeze": 1,
+  "Aardvark": 1,
+  "Dictionary": 1,
+  "Fictionary": 2,
+  "Alphabet soup": 1,
+  "Letter": 1,
+  "Alphabet": 2,
+  "Cappuccino": 1,
+  "Google": 1,
+  "Gmail": 2,
+  "Word": 1,
+  "F-word": 2,
+  "Fire Tornado": 1,
+  "A-to-z": 1,
+  "Eraser": 1,
+  "Fear": 2,
+  "A-Z": 1,
+  "Eruption": 2,
+  "Cloud": 2,
+  "Ocean": 2,
+  "Magma": 2,
+  "Mountain Range": 2,
+  "Sand": 2,
+  "Garden": 2,
+  "Sun": 2,
+  "Rain": 2,
+  "Engine": 2,
+  "Poseidon": 3,
+  "Flake": 2,
+  "Alpha": 2,
+  "Alps": 3,
+  "Glass": 2,
+  "Lily": 2,
+  "Sunflower": 2,
+  "Aflame": 2,
+  "Fertilizer": 2,
+  "Foghorn": 3,
+  "B-z": 2,
+  "Snowflake": 3,
+  "Algae": 2,
+  "Fart": 2,
+  "Sandstorm": 2,
+  "Snowman": 3,
+  "Fountain": 2,
+  "Surfboard": 2,
+  "Swell": 2,
+  "Fsteam": 2,
+  "Afro Lily": 3,
+  "Bee": 2,
+  "Plant": 3,
+  "Flame": 3,
+  "Torch": 2,
+  "C-y": 3,
+  "Incense": 2,
+  "Windmill": 2,
+  "Seaweed": 2,
+  "Aflac": 2,
+  "Fountain of Youth": 3,
+  "Alp": 2,
+  "Honey": 3,
+  "Rose": 2,
+  "Dune": 3,
+  "A-wave": 2,
+  "A-f": 3,
+  "Pine": 2,
+  "A-fsteam": 3,
+  "Asteam": 2,
+  "Blow": 2,
+  "Duck": 3,
+  "Mount Everest": 2,
+  "A-f-wave": 3,
+  "Pineapple": 3,
+  "Smoke-tornado": 2,
+  "Bouquet": 2,
+  "Latte": 2,
+  "Cinder": 2,
+  "Mt. Fuji": 2,
+  "A-f-blow": 3,
+  "Fanboy": 2,
+  "Boulder": 2,
+  "Surfer": 3,
+  "Firework": 2,
+  "Fire-tornado": 3,
+  "Aftermath": 2,
+  "Cyclone": 2,
+  "Japan": 3,
+  "Molehill": 2,
+  "Ash": 3,
+  "Pollen": 2,
+  "D": 3,
+  "Bottle": 2,
+  "Affan": 2,
+  "Ice": 2,
+  "F-bomb": 3,
+  "Steampunk": 2,
+  "Star": 2,
+  "Alpabet": 2,
+  "Wine": 2,
+  "Bread": 2,
+  "Coffee Grounds": 2,
+  "GG": 2,
+  "Ice Cream": 3,
+  "Fh2o": 2,
+  "A+++": 2,
+  "Pitcher of Lemonade": 2,
+  "A-f-fan": 3,
+  "Tea": 2,
+  "Asterisk": 3,
+  "Moon": 2,
+  "Sandwich": 3,
+  "BF": 2,
+  "Hh": 3,
+  "GIF": 2,
+  "Dust Storm": 2,
+  "Af2o": 3,
+  "H2o": 2,
+  "H2o2": 2,
+  "A++f": 2,
+  "Lemonade Stand": 2,
+  "Fireade": 2,
+  "Origami": 2,
+  "Clean": 2,
+  "Werewolf": 3,
+  "Saturn": 2,
+  "Allergies": 2,
+  "Cf": 3,
+  "Cinderella": 2,
+  "Gif": 3,
+  "Gator": 2,
+  "A to Z": 2,
+  "PH": 2,
+  "Firefighter": 2,
+  "Fanta": 2,
+  "Man": 2,
+  "Paper": 3,
+  "Fanart": 2,
+  "Fresh": 3,
+  "Steam-tornado": 2,
+  "Sneeze": 3,
+  "Starbucks": 2,
+  "Alligator": 2,
+  "Gear": 2,
+  "Report": 2,
+  "Bonsai": 2,
+  "Lemon": 2,
+  "Phaf": 3,
+  "Woman": 3,
+  "Adamant": 2,
+  "Coffee Grinder": 2,
+  "Pluto": 2,
+  "Gearbox": 3,
+  "Gale": 2,
+  "Tree": 3,
+  "BP": 2,
+  "Adamantium": 3,
+  "Artist": 2,
+  "Soda": 2,
+  "Fareport": 3,
+  "Computer": 2,
+  "A-f-h2o-o": 3,
+  "Oxygen": 2,
+  "Ventilator": 2,
+  "Plutonium": 3,
+  "C-f": 3,
+  "Watercolor": 2,
+  "Fartist": 3,
+  "Tornadam": 2,
+  "Dreadlocks": 2,
+  "Prince": 3,
+  "Painting": 2,
+  "Money": 2,
+  "Atom": 2,
+  "Bob Marley": 2,
+  "Burn": 2,
+  "Desert": 2,
+  "A-h": 3,
+  "G+": 2,
+  "Pond": 2,
+  "Rich": 3,
+  "Sour": 2,
+  "Fat": 3,
+  "Aff": 2,
+  "Affinity": 2,
+  "Hair": 2,
+  "Aphoenix": 2,
+  "Oasis": 3,
+  "Nile": 2,
+  "Cash": 2,
+  "P": 2,
+  "Pottery": 2,
+  "Procrastination": 2,
+  "African": 2,
+  "Affe": 2,
+  "Rebirth": 2,
+  "A+f+a+f+A+f+a+f": 2,
+  "Pharaoh": 3,
+  "Afrika": 2,
+  "Fossil Fuel": 3,
+  "Airplane": 2,
+  "Cashier": 3,
+  "G-z": 2,
+  "P-f": 3,
+  "Paper Mache": 2,
+  "Vase": 3,
+  "Potato": 2,
+  "Punch": 2,
+  "A+fro": 2,
+  "A+f+a+f+f": 2,
+  "Groot": 2,
+  "Afrikaans": 2,
+  "Fighter": 3,
+  "A-a": 2,
+  "Fries": 3,
+  "Mask": 3,
+  "K.O.": 3,
+  "A-fro": 3,
+  "Afro Samurai": 2,
+  "Scandal": 3,
+  "Affogato": 2,
+  "A+f+a+f+f+A-f": 3,
+  "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa": 2,
+  "A+f+a+f+a+f+a+f+a+f+": 2,
+  "Grow": 2,
+  "Rock": 2,
+  "Grass": 2,
+  "Egypt": 2,
+  "A-e": 3,
+  "Afroman": 2,
+  "Affirmative": 2,
+  "A-f+a-f": 2,
+  "Gift": 2,
+  "Fashionista": 3,
+  "Flash": 2,
+  "Lawn": 3,
+  "Brick": 2,
+  "Pyramid": 3,
+  "Azania": 2,
+  "Because I Got High": 3,
+  "Lightning": 2,
+  "Wall": 3,
+  "Archaeology": 2,
+  "Present": 3,
+  "G-Pencil": 2,
+  "A-firmative": 3,
+  "Affleck": 2,
+  "A-f+a-f+a-f": 3,
+  "Baobab": 2,
+  "Venus": 3,
+  "Tablet": 2,
+  "Wizard": 2,
+  "Archeology": 3,
+  "H-pencil": 3,
+  "G-Coffee": 2,
+  "A+f+a+f": 2,
+  "A+f+a+f+A-tornado": 2,
+  "Batman": 3,
+  "Pill": 3,
+  "Stonehenge": 2,
+  "A-f-Baobab": 3,
+  "Cactus": 2,
+  "H-coffee": 3,
+  "Gtornado": 2,
+  "Prickle": 3,
+  "Ethiopia": 2,
+  "Reggae": 3,
+  "Bob": 2,
+  "Soup": 2,
+  "Gone": 2,
+  "Leak": 2,
+  "Sahara": 2,
+  "Bobaf": 3,
+  "Samurai": 2,
+  "Fashes": 2,
+  "Forgone": 3,
+  "Faucet": 3,
+  "Paper Airplane": 2,
+  "Fafnir": 2,
+  "A-samurai": 3,
+  "Hip Hop": 2,
+  "Fbomb": 2,
+  "Knowledge": 2,
+  "Pyro": 2,
+  "Dragon": 2,
+  "Fafbomb": 3,
+  "Rap": 3,
+  "Wisdom": 3,
+  "Church": 2,
+  "Fish": 2,
+  "Fiction": 2,
+  "A to Z Fruit": 2,
+  "Fakebook": 3,
+  "Farmville": 2,
+  "Delta": 2,
+  "Atheist": 2,
+  "Hell": 2,
+  "Shark": 3,
+  "Gamer": 2,
+  "Science": 2,
+  "Bookworm": 2,
+  "Friend": 2,
+  "Phi": 3,
+  "Fallen": 3,
+  "Baptism": 2,
+  "Z": 3,
+  "A+z+": 2,
+  "Anerd": 2,
+  "Rainbow": 2,
+  "Fjord": 2,
+  "Fiend": 3,
+  "Like": 2,
+  "Jungle": 2,
+  "A+f+z": 2,
+  "A-f-baptism": 3,
+  "Fable": 2,
+  "Norway": 3,
+  "Amazon": 2,
+  "Alike": 3,
+  "Coffee Book": 2,
+  "Tarzan": 3,
+  "Fabulous": 3,
+  "Hack": 3,
+  "A+f+Nerd": 2,
+  "Foliage": 2,
+  "A-mazon": 3,
+  "Coffee Table": 3,
+  "Fail": 2,
+  "Cain": 3,
+  "Zap": 2,
+  "Geek": 2,
+  "Paper Boat": 2,
+  "A-fail": 3,
+  "School": 2,
+  "Frankenstein": 3,
+  "Java": 2,
+  "Glasses": 2,
+  "Fruit Tree": 2,
+  "Paper Plane": 3,
+  "Flood": 2,
+  "Maple Syrup": 3,
+  "Tumbleweed": 2,
+  "Aztornado": 2,
+  "Class": 2,
+  "Abc": 2,
+  "Venus Flytrap": 2,
+  "Fireplace": 2,
+  "Juice": 2,
+  "Ark": 3,
+  "Waterfall": 2,
+  "Alphabet S": 2,
+  "Abcdef": 3,
+  "A+f-wind": 2,
+  "A-f-trap": 3,
+  "Nerdnado": 2,
+  "Cider": 2,
+  "A-fruit": 3,
+  "Fruit Fly": 2,
+  "Niagara Falls": 3,
+  "A-bend": 2,
+  "Bog": 2,
+  "Apple Pie": 2,
+  "Dandelion Patch": 2,
+  "Apple Orchard": 2,
+  "Fruit Salad": 2,
+  "Cigar": 2,
+  "A-frame": 3,
+  "American Pie": 3,
+  "Newton": 2,
+  "Wrapper": 2,
+  "Fidel Castro": 3,
+  "Coffin": 2,
+  "Professor": 2,
+  "A+ple": 2,
+  "Dragonfly": 3,
+  "Marsh": 2,
+  "Gravity": 3,
+  "Coffee Tree": 2,
+  "Weed": 2,
+  "A-f-wind-f-wind": 3,
+  "A-twister": 2,
+  "Fawaffle": 3,
+  "Apple-tornado": 2,
+  "Vampire": 3,
+  "Mist": 2,
+  "Fizz": 2,
+  "Joint": 3,
+  "Wish": 2,
+  "Ship": 2,
+  "Treasure Map": 2,
+  "Mosquito": 2,
+  "Fireworks": 2,
+  "Genie": 3,
+  "Pirate": 2,
+  "Island": 2,
+  "Hill": 2,
+  "F-book": 2,
+  "Ace": 2,
+  "Malaria": 3,
+  "Mummy": 2,
+  "A6": 3,
+  "A4Wind": 2,
+  "Atlantis": 3,
+  "Sail": 2,
+  "Compass": 2,
+  "Report Card": 2,
+  "F-pencil": 2,
+  "Mangrove": 2,
+  "A+Kite": 2,
+  "Sailor": 3,
+  "F-Boat": 2,
+  "A4wind": 3,
+  "F4": 2,
+  "North": 3,
+  "Atlas": 2,
+  "Straight A’s": 3,
+  "F-tornado": 2,
+  "F5": 2,
+  "Exam": 2,
+  "A-F-K": 2,
+  "A-ff-ter": 2,
+  "Wet": 2,
+  "A-f-boat": 3,
+  "Canoe": 2,
+  "Afmangrove": 3,
+  "A-tlas": 3,
+  "Grade A+": 3,
+  "Flying Homework": 2,
+  "Afwet": 3,
+  "After": 2,
+  "A-ff-f": 2,
+  "Crocodile": 3,
+  "Fountain Pen": 2,
+  "Sky": 2,
+  "Color": 2,
+  "A+Fap": 2,
+  "All-Nighter": 2,
+  "A-ff-f-f": 3,
+  "Thunder": 2,
+  "A-f-f-f-f-f-f-f-f-f-": 3,
+  "Affire": 2,
+  "A-f-r-a-i-d": 3,
+  "A-boat": 2,
+  "Cave": 2,
+  "Fapfapfap": 2,
+  "Coffee2": 2,
+  "A-ff-homework": 2,
+  "F-": 3,
+  "Bat": 3,
+  "A-boat-a-f": 3,
+  "Afire": 3,
+  "Affluent": 2,
+  "Firefuck": 2,
+  "Fapbook": 2,
+  "Alphabet2": 2,
+  "Unicorn": 3,
+  "Frayon": 2,
+  "Umbrella": 2,
+  "A-f-homework": 3,
+  "Comic": 2,
+  "Raft": 2,
+  "A+Fuck": 2,
+  "Farm": 2,
+  "A-f-f-a": 2,
+  "Manga": 2,
+  "Graffiti": 2,
+  "Parasol": 3,
+  "Comic Sans": 3,
+  "Sketch": 2,
+  "Toilet Paper": 2,
+  "Buzz": 2,
+  "Postcard": 2,
+  "Barn": 3,
+  "Code": 2,
+  "Research": 2,
+  "Anime": 3,
+  "Fapuccino": 2,
+  "Fukushima": 2,
+  "A-f-f-a-r": 3,
+  "A+f-f": 2,
+  "A-hole": 3,
+  "Penis": 2,
+  "AFC": 2,
+  "Postage": 3,
+  "Coffee Shop": 2,
+  "Tornadon": 2,
+  "Wake Up": 2,
+  "F-f-f-f-f-f-f-f-f-f-": 2,
+  "Colored Pencil": 2,
+  "Crayonado": 2,
+  "Fuckoffee": 2,
+  "Hourglass": 2,
+  "Shipwreck": 2,
+  "Afc": 3,
+  "Fapalphabet": 2,
+  "A+tornado": 2,
+  "A+f+tornado": 2,
+  "PhD": 2,
+  "Alarm": 3,
+  "Destruction": 2,
+  "A-z-a-f": 2,
+  "Drain": 2,
+  "Fucktornado": 2,
+  "Energy": 2,
+  "Fap-nado": 2,
+  "Dorothy": 2,
+  "B+": 2,
+  "No Homework": 2,
+  "Drainage": 3,
+  "A+Funnel": 2,
+  "Campfire": 2,
+  "Fusion": 3,
+  "A-b": 3,
+  "Focus": 2,
+  "A-fucktornado": 3,
+  "Fucking": 2,
+  "Happy": 3,
+  "Tornami": 2,
+  "A+funnel": 2,
+  "Refresh": 3,
+  "A-Hurricane": 2,
+  "Fap-fap-fap-fap-fap-fap-fap": 3,
+  "S’more": 3,
+  "Furniture": 2,
+  "Sword": 2,
+  "Scope": 3,
+  "History": 2,
+  "Tornado Fucker": 2,
+  "A-z-a-f-a-f": 3,
+  "Afforestation": 2,
+  "Filter": 2,
+  "A-f-tornami": 3,
+  "A-flood": 3,
+  "Fiesta": 2,
+  "Chair": 3,
+  "Table": 2,
+  "Knight": 3,
+  "Mystery": 3,
+  "Botany": 2,
+  "Amocha": 2,
+  "Affidavit": 2,
+  "Bird": 2,
+  "Christmas": 2,
+  "Palm": 2,
+  "Photosynthesis": 3,
+  "Grammar": 2,
+  "A-famocha": 3,
+  "A+Mocha": 2,
+  "A-f-f-tornado": 2,
+  "Plane": 2,
+  "Palm Tree": 2,
+  "Santa": 3,
+  "Snow": 2,
+  "Fangram": 3,
+  "A-class": 3,
+  "Arsonist": 2,
+  "Wooden-leg": 2,
+  "A+f+A+f+homework": 2,
+  "A-mocha-f": 3,
+  "Frappuccino": 2,
+  "A-f-f-f-tornado": 3,
+  "A-f-f-homework": 2,
+  "Coffee Cup": 2,
+  "A+f+Alphabet Soup": 2,
+  "Crumpled": 2,
+  "Swimmer": 2,
+  "A-frappuccino": 3,
+  "A+Breeze": 2,
+  "Flying-tornado": 2,
+  "Salad": 2,
+  "A-f-f-homework-done": 3,
+  "Lifeguard": 3,
+  "F-Student": 2,
+  "Caesar": 3,
+  "Mail": 2,
+  "Toast": 2,
+  "A-student": 3,
+  "Valedictorian": 2,
+  "A-breeze": 3,
+  "Abreeze": 2,
+  "Latte Art": 2,
+  "Thesaurus": 2,
+  "Googleplex": 2,
+  "Spam": 3,
+  "Post": 2,
+  "Toasted": 3,
+  "Swimming": 2,
+  "Fire Flower": 2,
+  "Cool": 2,
+  "Barista": 3,
+  "Geology": 2,
+  "Postman": 3,
+  "A-f-googleplex": 3,
+  "FireFox": 2,
+  "Sentence": 2,
+  "Biology": 2,
+  "Swimming Pool": 3,
+  "Ant": 2,
+  "Coffee Tornado": 2,
+  "A-f-c": 3,
+  "Fault": 3,
+  "Paragraph": 3,
+  "Liquid": 2,
+  "Firefox": 3,
+  "Search": 2,
+  "Abiogenesis": 3,
+  "Stress": 2,
+  "Aunt": 3,
+  "Fearless": 3,
+  "R": 2,
+  "A+f+d": 2,
+  "A-fraid": 3,
+  "Spell": 2,
+  "Gone With The Wind": 2,
+  "Milk": 3,
+  "Whisper": 2,
+  "Error": 2,
+  "A+d": 3,
+  "Writer": 2,
+  "Secret": 3,
+  "F-Word": 2,
+  "Author": 3,
+  "Chaos": 2,
+  "Fatal": 3,
+  "Afford": 2,
+  "Android": 2,
+  "Afternoon": 3,
+  "Blank": 2,
+  "Language": 2,
+  "Affordable": 3,
+  "Work": 2,
+  "Cyborg": 3,
+  "A-f-blank": 3,
+  "Cheat": 2,
+  "Worker": 3,
+  "Fire tornado": 2,
+  "Coffee-tornado": 2,
+  "F-to-a": 2,
+  "Translate": 3,
+  "Encyclopedia": 2
+}
